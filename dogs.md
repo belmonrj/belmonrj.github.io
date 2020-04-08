@@ -9,7 +9,7 @@ layout: default
 
 ![Gracie](/assets/images/gracie2.jpg)
 
-This is Gracie!  My wife and I adopted her from [Happy Tales Humane](https://happytaleshumane.com)
+This is Gracie!  My wife and I adopted her from [Happy Tales Humane](https://williamsonsource.com/happy-tales-humane-closes/)
 rescue in Franklin, TN on September 29, 2006.  She was roughly 4 years old at the time.  Gracie was our
 travel buddy and came with us wherever we went.  Here she is at the Wingate hotel in Charlotte, NC for the
 Mustang 50th anniversary celebration in April 2014.  After a very brave and hard fight with cancer over 18 months, Gracie
