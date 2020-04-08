@@ -1,4 +1,5 @@
 ---
+title: Selected Publications
 layout: default
 ---
 

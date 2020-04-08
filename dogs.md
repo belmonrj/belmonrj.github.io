@@ -1,4 +1,5 @@
 ---
+title: Dogs
 layout: default
 ---
 
