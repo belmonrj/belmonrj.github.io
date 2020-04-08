@@ -24,5 +24,5 @@ To go to the older, more complete version, click [here](old_version).
 
 ### Selected Publications
 
-[Selected Publications](./selected_publications.html).
+[Selected Publications](selected_publications.html).
 
