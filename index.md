@@ -26,3 +26,7 @@ To go to the older, more complete version, click [here](old_version).
 
 [Selected Publications](selected_publications.html).
 
+### Additional Information
+
+[Additional Information](additional_information.html).
+
