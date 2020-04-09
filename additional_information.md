@@ -12,4 +12,6 @@ layout: default
 - [Dogs](dogs.html)
 - Bunnies
 - [Airplanes](planes.html)
+- [Русский язык](russian.html)
+- [中文](chinese.html)
 
