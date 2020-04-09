@@ -21,6 +21,17 @@ layout: default
 
 1829
 
+#### My translation
+
+I loved you: it may be that love<br>
+Has not yet died in my soul;<br>
+But let it not trouble you any longer;<br>
+I don't want to sadden you in anyway.<br>
+I loved you silently, hopelessly,<br>
+Tormented now by diffidence and jealousy;<br>
+I loved you so sincerely and so gently,<br>
+As may God grant you to be loved by another.<br>
+
 #### Discussion
 
 Not only is this one of the greatest poems ever
@@ -70,8 +81,8 @@ or it could simply be for the sake of rhyming with
 The next phrase is
 "но пусть она вас больше не тревожит".
 The mostly literal translation of
-"but let it not bother you any longer"
-is quite close to most literary ones.
+"but let it not trouble you any longer"
+is quite close to most idiomatic ones.
 Interestingly, Pushkin explicitly uses
 она (she/it; note that любовь is grammatically feminine),
 even though "но пусть вас больше не тревожит"
@@ -90,10 +101,6 @@ The word ничем is the instrumental case
 (by means of) of the word
 ничто (nothing).  A more idiomatic
 translation could be "I don't want to sadden you in any way."
-Often, more literary translations use "bother"
-instead of "sadden" for the word печалить, which
-is less literal but a better fit for the overall
-tone of the poem.
 
 The first phrase of the second quatrain is
 "я вас любил безмолвно, безнадежно",
@@ -123,7 +130,7 @@ something like
 "(I am) tormented now by timidity, now by jealousy".
 The word то has a variety of meanings, but the construction
 "то X, то Y" means "now X, now Y".
-The words робостъ (timidity) and ревность (jealousy)
+The words робость (timidity) and ревность (jealousy)
 are both in the instrumental case (by means of, with).
 In literary translations, diffidence is often used instead
 of timidity.  The meanings in English are quite close,
@@ -140,9 +147,15 @@ which means
 The literary translations are essentially
 identical to the literary one.
 It's worth noting that нежно can mean
-dearly, fondly, and gently, and all three
+dearly, fondly, gently, tenderly, etc
+and all
 appear in various translations.  To my ear,
 gently best fits the mood of the poem.
+In English, the way this line leads
+to the next one seems to suggest that
+a better translation would be
+"I loved you so sincerely and so gently".
+
 
 The final phrase of the poem is
 "как дай вам Бог любимой быть другим."
