@@ -17,7 +17,7 @@ site.description is {{ site.description }}
 
 site.github.project_tagline is {{ site.github.project_tagline }}
 
-site.github.owner_url is {{ site.github.owner_url }}
+site.github.owner_url is [{{ site.github.owner_url }}]({{ site.github.owner_url }})
 
 site.github.owner_name is {{ site.github.owner_name }}
 

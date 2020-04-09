@@ -13,7 +13,8 @@ plugins:
   - "jekyll-github-metadata"
 
 # show_downloads: false
-github.is_project_page: true
+# github.is_project_page: true - this one didn't change anything
+is_project_page: true
 # github.owner_url: belmonrj.github.io
 # github.owner_name: belmonrj
 
