@@ -14,4 +14,5 @@ layout: default
 - [Airplanes](planes.html)
 - [Русский язык](russian.html)
 - [中文](chinese.html)
+- [Español](spanish.html)
 
