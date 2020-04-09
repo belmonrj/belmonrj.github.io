@@ -8,7 +8,7 @@ layout: default
 你们好！我学习中文。对不起，我的中文非常错。
 
 I am primarily learning with simplified characters, as used in mainland China.
-I have a very strong appreciate for the history and beauty of traditional characters,
+I have a strong appreciation for the history and beauty of traditional characters,
 as used in e.g. Taiwan and Hong Kong.  I am trying to learn them as well.
 The pinyin keyboard helps a lot, but I recognize there are ambiguities so I am trying
 to learn to recognize the connections (some are quite obvious, but some are not).
@@ -19,4 +19,11 @@ to learn to recognize the connections (some are quite obvious, but some are not)
 ### 1. The way that can be followed is not the eternal way.
 
 道可道，非常道。名可名，非常名無名天地之始有名萬物之母。故常無欲以觀其妙，常有欲以觀其徵。此兩者同出而異名。同謂之玄。玄之又玄，衆妙之門。
+
+### All warfare is based on deception.
+
+兵者，詭道也。
+
+Opinions vary, but some hold the common English-language quote, from Lionel Giles writing in 1910, is a poor translation.
+In more recent times, it is usually translated as "war is the way of deception".
 
