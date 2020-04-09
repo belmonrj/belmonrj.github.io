@@ -11,3 +11,5 @@ github_username:  belmonrj
 
 show_downloads: false
 github.is_project_page: true
+github.owner_url: belmonrj.github.io
+github.owner_name: belmonrj
