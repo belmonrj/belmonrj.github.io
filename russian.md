@@ -123,8 +123,8 @@ the word томим, which is the first person plural
 conjugation of томить. It has a variety of
 meanings---to torment; to tire, to bore; to confine
 (as in captivity).  It also has a reflexive form
-томить, which also has a variety of meanings---to suffer;
-to languish (as in captivity); to pine for (with но).
+томиться, which also has a variety of meanings---to suffer;
+to languish (as in captivity); to pine for (with по).
 The context indicates that the translation should be
 something like
 "(I am) tormented now by timidity, now by jealousy".
@@ -138,7 +138,8 @@ and diffidence comes across as a bit more artful.
 A good idiomatic translation could then be
 "tormented now by diffidence, now by jealousy"
 or perhaps
-"tormented now by diffidence and jealousy".
+"tormented now by diffidence and jealousy"
+to better capture the cadence of spoken English.
 
 The next phrase is
 "я вас любил так искренно, так нежно"
