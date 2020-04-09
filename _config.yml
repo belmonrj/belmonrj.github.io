@@ -9,6 +9,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ronbelmont
 #github_username:  belmonrj
 
+plugins:
+  - "jekyll-github-metadata"
+
 # show_downloads: false
 # github.is_project_page: true
 # github.owner_url: belmonrj.github.io
