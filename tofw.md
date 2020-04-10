@@ -39,7 +39,7 @@ for a total of 32 per box and 128 total, meaning there are 1024 readout channels
 These "get" methods give access to the TOFW variables used for analysis.
 The variable type, name of the get method, and a brief description are given below.
 
-  Type  |  Name  |  Description
+  Type  |  Name  |  Description   <br>
  ------ | ------ | -------------
 {% for var in site.data.tofw.vars %}
    {%- assign print_type = var.type -%}
@@ -48,6 +48,7 @@ The variable type, name of the get method, and a brief description are given bel
    {%- assign print_me = print_type | append: ' | ' | append: print_name | append: ' | ' | append: print_desc %}
    {{ print_me }}
 {%- endfor -%}
+{{ nil }}
 
 
 
@@ -58,7 +59,7 @@ The variable type, name of the get method, and a brief description are given bel
 {% for var in site.data.tofw.vars %}
    {{ var.code }}
 {%- endfor -%}
-{{ }}
+{{ nil }}
 ```
 
 
