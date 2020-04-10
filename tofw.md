@@ -40,39 +40,30 @@ for a total of 32 per box and 128 total, meaning there are 1024 readout channels
 
 From `PHCentralTrack.h`
 
-##### This table has too much whitespace, but it works
 
-```c++
-{% for var in site.data.tofw.vars %}
-   {{ var.code }}
-{% endfor %}
-```
-
-##### This table has the whitespace removed from the `endfor` part of the code
 
 ```c++
 {% for var in site.data.tofw.vars %}
    {{ var.code }}
 {%- endfor -%}
+{{ }}
 ```
 
-##### This table has the whitespace removed from the `for` part of the code
-
-```c++
-
-{%- for var in site.data.tofw.vars -%}
-   {{ var.code }}
-{% endfor %}
-```
 
 
 
 #### Trying a table...
 
-|  Type  |  Name  |  Description  |
-| ------ | ------ | ------------- |
-{% for var in site.data.tofw.vars %}
-   {{ var.type var.name var.description }}
-{%- endfor -%}
 
+
+
+  Type  |  Name  |  Description
+ ------ | ------ | -------------
+{% for var in site.data.tofw.vars %}
+   {%- assign print_type = var.type -%}
+   {%- assign print_name = var.name -%}
+   {%- assign print_desc = var.desc -%}
+   {%- assign print_me = print_type | append: ' | ' | append: print_name | append: ' | ' | append: print_desc %}
+   {{ print_me }}
+{%- endfor -%}
 
