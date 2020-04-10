@@ -3,7 +3,7 @@ title: TOFW
 layout: default
 ---
 
-### TOFW overview
+#### TOFW overview
 
 The TOFW is a time-of-flight (TOF) detector in the west (W) arm of the PHENIX central
 spectrometer.  It was designed, developed, and assembled at Vanderbilt University with
@@ -34,12 +34,24 @@ for a total of 32 per box and 128 total, meaning there are 1024 readout channels
 
 
 
-### Trying liquid code with yaml data...
+#### TOFW analysis variables
 
-#### Trying C++ code...
+These "get" methods give access to the TOFW variables used for analysis.
+The variable type, name of the get method, and a brief description are given below.
 
-From `PHCentralTrack.h`
+  Type  |  Name  |  Description
+ ------ | ------ | -------------
+{% for var in site.data.tofw.vars %}
+   {%- assign print_type = var.type -%}
+   {%- assign print_name = var.name -%}
+   {%- assign print_desc = var.desc -%}
+   {%- assign print_me = print_type | append: ' | ' | append: print_name | append: ' | ' | append: print_desc %}
+   {{ print_me }}
+{%- endfor -%}
 
+
+
+#### C++ code from `PHCentralTrack.h`
 
 
 ```c++
@@ -51,19 +63,4 @@ From `PHCentralTrack.h`
 
 
 
-
-#### Trying a table...
-
-
-
-
-  Type  |  Name  |  Description
- ------ | ------ | -------------
-{% for var in site.data.tofw.vars %}
-   {%- assign print_type = var.type -%}
-   {%- assign print_name = var.name -%}
-   {%- assign print_desc = var.desc -%}
-   {%- assign print_me = print_type | append: ' | ' | append: print_name | append: ' | ' | append: print_desc %}
-   {{ print_me }}
-{%- endfor -%}
 
