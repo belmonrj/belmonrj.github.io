@@ -1,5 +1,3 @@
-
-Processing crunch.C...
 - name: get_tofwid
   type: short
   code: virtual short get_tofwid(const unsigned int itrk) const;
