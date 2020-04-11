@@ -2,7 +2,8 @@
 intro: >-
   The TOFW is a time-of-flight (TOF) detector in the west (W) arm of the PHENIX central
   spectrometer.  It was designed, developed, and assembled at Vanderbilt University with
-  Julia Velkovska as the project lead.
+  Julia Velkovska as the project lead.  It was installed prior to the beginning of Run7
+  and was successfully operated for all running periods thereafter.
 
 mrpc: >-
   The individual component of the TOFW detector is the mult-gap resistive plate chamber
