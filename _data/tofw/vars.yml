@@ -1,3 +1,5 @@
+
+Processing crunch.C...
 - name: get_tofwid
   type: short
   code: virtual short get_tofwid(const unsigned int itrk) const;
@@ -32,16 +34,6 @@
   type: float
   code: virtual float get_tofwdz(const unsigned int itrk) const;
   desc: difference between track projection and the track hit in the z direction (viz dz means delta z)
-
-- name: get_stofwdphi
-  type: float
-  code: virtual float get_stofwdphi(const unsigned int itrk) const;
-  desc: difference between track projection and the swapped track hit in the phi direction (viz dphi means delta phi)
-
-- name: get_stofwdz
-  type: float
-  code: virtual float get_stofwdz(const unsigned int itrk) const;
-  desc: difference between track projection and the swapped track hit in the z direction (viz dz means delta z)
 
 - name: get_striptofw
   type: int
@@ -103,16 +95,6 @@
   code: virtual float get_tofwsdphi(const unsigned int itrk) const;
   desc: the sigmalized version of tofwdphi
 
-- name: get_stofwsdphi
-  type: float
-  code: virtual float get_stofwsdphi(const unsigned int itrk) const;
-  desc: the sigmalized version of stofwdz
-
-- name: get_stofwsdz
-  type: float
-  code: virtual float get_stofwsdz(const unsigned int itrk) const;
-  desc: the sigmalized version of stofwdphi
-
 - name: get_m2tofw
   type: float
   code: virtual float get_m2tofw(const unsigned int itrk) const;
@@ -122,4 +104,44 @@
   type: int
   code: virtual int get_idtrk_tofw(const unsigned int itrk) const;
   desc: Ron needs to double check
+
+- name: get_stofwid
+  type: short
+  code: virtual short get_stofwid(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_sptofwx
+  type: float
+  code: virtual float get_sptofwx(const unsigned int itrk) const;
+  desc: swapped version of ptofwx
+
+- name: get_sptofwy
+  type: float
+  code: virtual float get_sptofwy(const unsigned int itrk) const;
+  desc: swapped version of ptofwy
+
+- name: get_sptofwz
+  type: float
+  code: virtual float get_sptofwz(const unsigned int itrk) const;
+  desc: swapped version of ptofwz
+
+- name: get_stofwdphi
+  type: float
+  code: virtual float get_stofwdphi(const unsigned int itrk) const;
+  desc: swapped version of tofwdphi
+
+- name: get_stofwdz
+  type: float
+  code: virtual float get_stofwdz(const unsigned int itrk) const;
+  desc: swapped version of tofwdz
+
+- name: get_stofwsdphi
+  type: float
+  code: virtual float get_stofwsdphi(const unsigned int itrk) const;
+  desc: swapped version of tofwsdphi
+
+- name: get_stofwsdz
+  type: float
+  code: virtual float get_stofwsdz(const unsigned int itrk) const;
+  desc: swapped version of tofwsdz
 
