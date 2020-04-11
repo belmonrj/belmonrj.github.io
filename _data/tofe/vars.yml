@@ -1,0 +1,185 @@
+- name: get_tofid
+  type: short
+  code: virtual short get_tofid(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_ptofx
+  type: float
+  code: virtual float get_ptofx(const unsigned int itrk) const;
+  desc: x-component of the projection of the cgl track onto the TOF
+
+- name: get_ptofy
+  type: float
+  code: virtual float get_ptofy(const unsigned int itrk) const;
+  desc: y-component of the projection of the cgl track onto the TOF
+
+- name: get_ptofz
+  type: float
+  code: virtual float get_ptofz(const unsigned int itrk) const;
+  desc: z-component of the projection of the cgl track onto the TOF
+
+- name: get_pltof
+  type: float
+  code: virtual float get_pltof(const unsigned int itrk) const;
+  desc: pathlength of the track from the collision to the TOF
+
+- name: get_tofdphi
+  type: float
+  code: virtual float get_tofdphi(const unsigned int itrk) const;
+  desc: difference between track projection and the track hit in the phi direction (viz dphi means delta phi)
+
+- name: get_tofdz
+  type: float
+  code: virtual float get_tofdz(const unsigned int itrk) const;
+  desc: difference between track projection and the track hit in the z direction (viz dz means delta z)
+
+- name: get_slat
+  type: int
+  code: virtual int get_slat(const unsigned int itrk) const;
+  desc: the unique id number of the slat of the track hit
+
+- name: get_tofphi
+  type: float
+  code: virtual float get_tofphi(const unsigned int itrk) const;
+  desc: phi-component of the TOF track hit
+
+- name: get_tofz
+  type: float
+  code: virtual float get_tofz(const unsigned int itrk) const;
+  desc: z-component of the TOF track hit
+
+- name: get_ttof
+  type: float
+  code: virtual float get_ttof(const unsigned int itrk) const;
+  desc: time of flight from the vertex to the TOF (the BBC start time for the event is subtracted)
+
+- name: get_etof
+  type: float
+  code: virtual float get_etof(const unsigned int itrk) const;
+  desc: the energy of the TOF track hit
+
+- name: get_tofph1
+  type: float
+  code: virtual float get_tofph1(const unsigned int itrk) const;
+  desc: the charge (ADC) from the upper side of the TOF track hit
+
+- name: get_tofph2
+  type: float
+  code: virtual float get_tofph2(const unsigned int itrk) const;
+  desc: the charge (ADC) from the lower side of the TOF track hit
+
+- name: get_toftdc1
+  type: float
+  code: virtual float get_toftdc1(const unsigned int itrk) const;
+  desc: the raw time (TDC) from the upper side of the TOF track hit
+
+- name: get_toftdc2
+  type: float
+  code: virtual float get_toftdc2(const unsigned int itrk) const;
+  desc: the raw time (TDC) from the lower side of the TOF track hit
+
+- name: get_tofsdz
+  type: float
+  code: virtual float get_tofsdz(const unsigned int itrk) const;
+  desc: the sigmalized version of tofdz
+
+- name: get_tofsdphi
+  type: float
+  code: virtual float get_tofsdphi(const unsigned int itrk) const;
+  desc: the sigmalized version of tofdphi
+
+- name: get_m2tof
+  type: float
+  code: virtual float get_m2tof(const unsigned int itrk) const;
+  desc: the calculated mass squared of the TOF track (using ttof, pltof, and mom)
+
+- name: get_tofecut
+  type: short
+  code: virtual short get_tofecut(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_tofsame
+  type: short
+  code: virtual short get_tofsame(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_ttofnext
+  type: float
+  code: virtual float get_ttofnext(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_etofnext
+  type: float
+  code: virtual float get_etofnext(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_idtrk_tof
+  type: int
+  code: virtual int get_idtrk_tof(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_stofid
+  type: short
+  code: virtual short get_stofid(const unsigned int itrk) const;
+  desc: swapped version of tofid
+
+- name: get_sptofx
+  type: float
+  code: virtual float get_sptofx(const unsigned int itrk) const;
+  desc: swapped version of ptofx
+
+- name: get_sptofy
+  type: float
+  code: virtual float get_sptofy(const unsigned int itrk) const;
+  desc: swapped version of ptofy
+
+- name: get_sptofz
+  type: float
+  code: virtual float get_sptofz(const unsigned int itrk) const;
+  desc: swapped version of ptofz
+
+- name: get_stofdphi
+  type: float
+  code: virtual float get_stofdphi(const unsigned int itrk) const;
+  desc: swapped version of tofdphi
+
+- name: get_stofdz
+  type: float
+  code: virtual float get_stofdz(const unsigned int itrk) const;
+  desc: swapped version of tofdz
+
+- name: get_stofphi
+  type: float
+  code: virtual float get_stofphi(const unsigned int itrk) const;
+  desc: swapped version of tofphi
+
+- name: get_stofz
+  type: float
+  code: virtual float get_stofz(const unsigned int itrk) const;
+  desc: swapped version of tofz
+
+- name: get_sttof
+  type: float
+  code: virtual float get_sttof(const unsigned int itrk) const;
+  desc: swapped version of ttof
+
+- name: get_setof
+  type: float
+  code: virtual float get_setof(const unsigned int itrk) const;
+  desc: swapped version of etof
+
+- name: get_stofsdphi
+  type: float
+  code: virtual float get_stofsdphi(const unsigned int itrk) const;
+  desc: swapped version of tofsdphi
+
+- name: get_stofsdz
+  type: float
+  code: virtual float get_stofsdz(const unsigned int itrk) const;
+  desc: swapped version of tofsdz
+
+- name: get_idtrk_stof
+  type: int
+  code: virtual int get_idtrk_stof(const unsigned int itrk) const;
+  desc: swapped version of idtrk_tof
+
