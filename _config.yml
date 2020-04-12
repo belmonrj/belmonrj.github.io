@@ -1,24 +1,23 @@
 theme: jekyll-theme-slate
 
+
 title: Ron Belmont
-email: belmonrj[at]gmail[dot]com
-description: >- # this means to ignore newlines until "baseurl:"
-  High energy nuclear physicist
+description:  High energy nuclear physicist
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: ronbelmont
-#github_username:  belmonrj
+
+
+twitter_username: ronbelmont
+email: belmonrj[at]gmail[dot]com
+
 
 plugins:
   - "jekyll-github-metadata"
 
-# show_downloads: false
-# github.is_project_page: true - this one didn't change anything
-# is_project_page: true
+
 github:
   is_project_page: true
-# github.owner_url: belmonrj.github.io
-# github.owner_name: belmonrj
 
-# repo_link: https://belmonrj.github.com/belmonrj.github.io
 
