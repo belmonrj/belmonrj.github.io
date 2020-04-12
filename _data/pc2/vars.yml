@@ -1,0 +1,120 @@
+- name: get_pc2id
+  type: short
+  code: virtual short get_pc2id(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_ppc2x
+  type: float
+  code: virtual float get_ppc2x(const unsigned int itrk) const;
+  desc: x-component of the projection of the cgl track onto the PC2
+
+- name: get_ppc2y
+  type: float
+  code: virtual float get_ppc2y(const unsigned int itrk) const;
+  desc: y-component of the projection of the cgl track onto the PC2
+
+- name: get_ppc2z
+  type: float
+  code: virtual float get_ppc2z(const unsigned int itrk) const;
+  desc: z-component of the projection of the cgl track onto the PC2
+
+- name: get_pc2dphi
+  type: float
+  code: virtual float get_pc2dphi(const unsigned int itrk) const;
+  desc: difference between track projection and the track hit in the phi direction (viz dphi means delta phi)
+
+- name: get_pc2dz
+  type: float
+  code: virtual float get_pc2dz(const unsigned int itrk) const;
+  desc: difference between track projection and the track hit in the z direction (viz dz means delta z)
+
+- name: get_pc2sdphi
+  type: float
+  code: virtual float get_pc2sdphi(const unsigned int itrk) const;
+  desc: the sigmalized version of tofdz
+
+- name: get_pc2sdz
+  type: float
+  code: virtual float get_pc2sdz(const unsigned int itrk) const;
+  desc: the sigmalized version of tofdphi
+
+- name: get_pc2sect
+  type: short
+  code: virtual short get_pc2sect(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_pc2phi
+  type: float
+  code: virtual float get_pc2phi(const unsigned int itrk) const;
+  desc: phi-component of the PC2 track hit
+
+- name: get_pc2z
+  type: float
+  code: virtual float get_pc2z(const unsigned int itrk) const;
+  desc: z-component of the PC2 track hit
+
+- name: get_pc2wid
+  type: float
+  code: virtual float get_pc2wid(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_idtrk_pc2
+  type: int
+  code: virtual int get_idtrk_pc2(const unsigned int itrk) const;
+  desc: Ron needs to double check
+
+- name: get_spc2id
+  type: short
+  code: virtual short get_spc2id(const unsigned int itrk) const;
+  desc: swapped version of get_pc2id
+
+- name: get_spc2dphi
+  type: float
+  code: virtual float get_spc2dphi(const unsigned int itrk) const;
+  desc: swapped version of get_pc2dphi
+
+- name: get_spc2dz
+  type: float
+  code: virtual float get_spc2dz(const unsigned int itrk) const;
+  desc: swapped version of get_pc2dz
+
+- name: get_spc2sdphi
+  type: float
+  code: virtual float get_spc2sdphi(const unsigned int itrk) const;
+  desc: swapped version of get_pc2sdphi
+
+- name: get_spc2sdz
+  type: float
+  code: virtual float get_spc2sdz(const unsigned int itrk) const;
+  desc: swapped version of get_pc2sdz
+
+- name: get_spc2phi
+  type: float
+  code: virtual float get_spc2phi(const unsigned int itrk) const;
+  desc: swapped version of get_pc2phi
+
+- name: get_spc2z
+  type: float
+  code: virtual float get_spc2z(const unsigned int itrk) const;
+  desc: swapped version of get_pc2z
+
+- name: get_sppc2x
+  type: float
+  code: virtual float get_sppc2x(const unsigned int itrk) const;
+  desc: swapped version of get_ppc2x
+
+- name: get_sppc2y
+  type: float
+  code: virtual float get_sppc2y(const unsigned int itrk) const;
+  desc: swapped version of get_ppc2y
+
+- name: get_sppc2z
+  type: float
+  code: virtual float get_sppc2z(const unsigned int itrk) const;
+  desc: swapped version of get_ppc2z
+
+- name: get_idtrk_spc2
+  type: int
+  code: virtual int get_idtrk_spc2(const unsigned int itrk) const;
+  desc: swapped version of get_idtrk_pc2
+
