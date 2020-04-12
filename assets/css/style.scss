@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* In the default setup, center text in the footer was medium gray
+and hard to see, this hack-ish change fixed it */
+center {
+    text-align: center;
+    color: white;
+}
+
