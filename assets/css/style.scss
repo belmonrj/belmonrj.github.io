@@ -38,3 +38,11 @@ header a {
     text-decoration: none;
 }
 
+
+/* This modified the padding in the header text */
+/* The theme default is padding: 50px 10px 30px 10px; */
+/* The order is top right bottom left */
+#header_wrap .inner {
+  padding: 10px 10px 1px 10px;
+}
+
