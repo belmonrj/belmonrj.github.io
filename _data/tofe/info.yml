@@ -5,3 +5,14 @@ intro: >-
   part of the original design of PHENIX and was successfully operated for all 16 run
   periods.
 
+slat: >-
+  The individual component of the TOFE is the slat.  Each slat is a plastic scintillation
+  counter made of Bicron BC404 read out on either end with a Hamamatsu R3478S
+  photomultiplier tube.
+
+system: >-
+  The TOFE system consists of 10 panels.  Each panel contains 96 slats for a total of 960
+  slats and 1920 readout channels.  There are eight panels in sector 1 covering the full
+  22.5 degrees in azimuth and the full +/- 0.35 units in pseudorapidity, and two panels in
+  sector 0 covering full 22.5 degrees in azimuth and the innermost rapidity range.
+
