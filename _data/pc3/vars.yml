@@ -1,120 +1,120 @@
 - name: get_pc3id
   type: short
-  code: virtual short get_pc3id(const unsigned int itrk) const;
+  code: virtual short get_pc3id(/*args*/) const;
   desc: Ron needs to double check
 
 - name: get_ppc3x
   type: float
-  code: virtual float get_ppc3x(const unsigned int itrk) const;
+  code: virtual float get_ppc3x(/*args*/) const;
   desc: x-component of the projection of the cgl track onto the PC3
 
 - name: get_ppc3y
   type: float
-  code: virtual float get_ppc3y(const unsigned int itrk) const;
+  code: virtual float get_ppc3y(/*args*/) const;
   desc: y-component of the projection of the cgl track onto the PC3
 
 - name: get_ppc3z
   type: float
-  code: virtual float get_ppc3z(const unsigned int itrk) const;
+  code: virtual float get_ppc3z(/*args*/) const;
   desc: z-component of the projection of the cgl track onto the PC3
 
 - name: get_pc3dphi
   type: float
-  code: virtual float get_pc3dphi(const unsigned int itrk) const;
+  code: virtual float get_pc3dphi(/*args*/) const;
   desc: difference between track projection and the track hit in the phi direction (viz dphi means delta phi)
 
 - name: get_pc3dz
   type: float
-  code: virtual float get_pc3dz(const unsigned int itrk) const;
+  code: virtual float get_pc3dz(/*args*/) const;
   desc: difference between track projection and the track hit in the z direction (viz dz means delta z)
 
 - name: get_pc3sdphi
   type: float
-  code: virtual float get_pc3sdphi(const unsigned int itrk) const;
+  code: virtual float get_pc3sdphi(/*args*/) const;
   desc: the sigmalized version of tofdz
 
 - name: get_pc3sdz
   type: float
-  code: virtual float get_pc3sdz(const unsigned int itrk) const;
+  code: virtual float get_pc3sdz(/*args*/) const;
   desc: the sigmalized version of tofdphi
 
 - name: get_pc3sect
   type: short
-  code: virtual short get_pc3sect(const unsigned int itrk) const;
+  code: virtual short get_pc3sect(/*args*/) const;
   desc: Ron needs to double check
 
 - name: get_pc3phi
   type: float
-  code: virtual float get_pc3phi(const unsigned int itrk) const;
+  code: virtual float get_pc3phi(/*args*/) const;
   desc: phi-component of the PC3 track hit
 
 - name: get_pc3z
   type: float
-  code: virtual float get_pc3z(const unsigned int itrk) const;
+  code: virtual float get_pc3z(/*args*/) const;
   desc: z-component of the PC3 track hit
 
 - name: get_pc3wid
   type: float
-  code: virtual float get_pc3wid(const unsigned int itrk) const;
+  code: virtual float get_pc3wid(/*args*/) const;
   desc: Ron needs to double check
 
 - name: get_idtrk_pc3
   type: int
-  code: virtual int get_idtrk_pc3(const unsigned int itrk) const;
+  code: virtual int get_idtrk_pc3(/*args*/) const;
   desc: Ron needs to double check
 
 - name: get_spc3id
   type: short
-  code: virtual short get_spc3id(const unsigned int itrk) const;
+  code: virtual short get_spc3id(/*args*/) const;
   desc: swapped version of get_pc3id
 
 - name: get_spc3dphi
   type: float
-  code: virtual float get_spc3dphi(const unsigned int itrk) const;
+  code: virtual float get_spc3dphi(/*args*/) const;
   desc: swapped version of get_pc3dphi
 
 - name: get_spc3dz
   type: float
-  code: virtual float get_spc3dz(const unsigned int itrk) const;
+  code: virtual float get_spc3dz(/*args*/) const;
   desc: swapped version of get_pc3dz
 
 - name: get_spc3sdphi
   type: float
-  code: virtual float get_spc3sdphi(const unsigned int itrk) const;
+  code: virtual float get_spc3sdphi(/*args*/) const;
   desc: swapped version of get_pc3sdphi
 
 - name: get_spc3sdz
   type: float
-  code: virtual float get_spc3sdz(const unsigned int itrk) const;
+  code: virtual float get_spc3sdz(/*args*/) const;
   desc: swapped version of get_pc3sdz
 
 - name: get_spc3phi
   type: float
-  code: virtual float get_spc3phi(const unsigned int itrk) const;
+  code: virtual float get_spc3phi(/*args*/) const;
   desc: swapped version of get_pc3phi
 
 - name: get_spc3z
   type: float
-  code: virtual float get_spc3z(const unsigned int itrk) const;
+  code: virtual float get_spc3z(/*args*/) const;
   desc: swapped version of get_pc3z
 
 - name: get_sppc3x
   type: float
-  code: virtual float get_sppc3x(const unsigned int itrk) const;
+  code: virtual float get_sppc3x(/*args*/) const;
   desc: swapped version of get_ppc3x
 
 - name: get_sppc3y
   type: float
-  code: virtual float get_sppc3y(const unsigned int itrk) const;
+  code: virtual float get_sppc3y(/*args*/) const;
   desc: swapped version of get_ppc3y
 
 - name: get_sppc3z
   type: float
-  code: virtual float get_sppc3z(const unsigned int itrk) const;
+  code: virtual float get_sppc3z(/*args*/) const;
   desc: swapped version of get_ppc3z
 
 - name: get_idtrk_spc3
   type: int
-  code: virtual int get_idtrk_spc3(const unsigned int itrk) const;
+  code: virtual int get_idtrk_spc3(/*args*/) const;
   desc: swapped version of get_idtrk_pc3
 

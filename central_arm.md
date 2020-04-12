@@ -7,6 +7,30 @@ layout: default
 
 #### Overview
 
+
+
+#### Getting CNT variables
+
+For most central arm track variables, one can get the variables in two ways:
+from `PHCentralTrack` and from `PHSnglCentralTrack`.  The data are guaranteed
+to be identical, except in the highly unlikely event somebody forgot to implement a method from `PHSnglCentralTrack`
+into `PHCentralTrack`, which will fail in a safe way (you get a nan, a -9999, or a compiler error).
+
+Here's a code snippet in to illustrate the two ways to get the momentum of the track.
+
+```c++
+  PHCentralTrack* ctrk = getClass<PHCentralTrack>(topNode,"PHCentralTrack");
+  for ( unsigned int itrk = 0; itrk < ctrk->get_npart(); ++itrk )
+    {
+      PHSnglCentralTrack* strk = ctrk->get_track(itrk);
+      float momentum = -9999;
+      mom = strk->get_mom();
+      mom = ctrk->get_mom(itrk);
+    }
+```
+
+
+
 #### Links to internal PHENIX pages
 
 [Information from the momentum reconstruction](https://www.phenix.bnl.gov/WWW/offline/wikioff/index.php/Information_from_the_momentum_reconstruction)
