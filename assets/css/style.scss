@@ -3,11 +3,13 @@
 
 @import "{{ site.theme }}";
 
+
 /* In the default setup, center text in the footer was medium gray
-   and hard to see, this hack-ish change fixed it */
+   and hard to see, this hack-ish change fixed it---#f2f2f2 is the
+   same color as the default for plain text */
 center {
     text-align: center;
-    color: white;
+    color: #f2f2f2;
 }
 
 
@@ -28,7 +30,9 @@ center {
     text-decoration: underline;
 }
 
+
 /* This makes the header links (name and tagline) white */
+/* #fff is the same color as the default for plain text */
 header a {
     color: #fff;
     text-decoration: none;
