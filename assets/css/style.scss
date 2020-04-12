@@ -21,10 +21,16 @@ center {
 }
 
 
-/* Messing around with some link settings
-  This one looks very good in the body but terrible in the header */
+/* Messing around with some link settings */
+/* This makes the main content links dark and underlind */
 #main_content a {
     color: #141414;
     text-decoration: underline;
+}
+
+/* This makes the header links (name and tagline) white */
+#project_title a, #project_tagline a {
+    color: #fff;
+    text-decoration: none;
 }
 
