@@ -4,9 +4,27 @@
 @import "{{ site.theme }}";
 
 /* In the default setup, center text in the footer was medium gray
-and hard to see, this hack-ish change fixed it */
+   and hard to see, this hack-ish change fixed it */
 center {
     text-align: center;
     color: white;
+}
+
+
+/* theme default is position: relative; max-width: 640px; padding: 20px 10px; margin 0 auto; */
+/* the 640px is a little too narrow, 800px is a little too wide, 700px seems pretty decent */
+.inner {
+  position: relative;
+  max-width: 700px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+
+/* Messing around with some link settings
+  This one looks very good in the body but terrible in the header */
+a {
+    color: #141414;
+    text-decoration: underline;
 }
 
