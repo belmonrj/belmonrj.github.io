@@ -8,6 +8,12 @@ layout: default
 #### TOFE overview
 
 {{ site.data.tofe.info.intro }}
+<br>
+<br>
+{{ site.data.tofe.info.slat }}
+<br>
+<br>
+{{ site.data.tofe.info.system }}
 
 
 
