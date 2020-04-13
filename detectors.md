@@ -9,6 +9,8 @@ layout: default
 
 [Central arms](central_arm.html)
 
+[PC2 and PC3](pc23.html)
+
 [TOFW](tofw.html)
 
 [TOFE](tofe.html)
