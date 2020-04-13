@@ -31,3 +31,9 @@ To go to the older, more complete version, click [here](old_version).
 
 [Additional Information](additional_information.html).
 
+### Temporary links
+
+[Detectors](detectors.html).
+
+
+
