@@ -21,10 +21,12 @@ layout: default
 
 1829
 
+
+
 #### My translation
 
 I loved you: it may be that love<br>
-Has not yet died in my soul;<br>
+Has not yet died completely in my soul;<br>
 But let it not trouble you any longer;<br>
 I don't want to sadden you in anyway.<br>
 I loved you silently, hopelessly,<br>
@@ -34,9 +36,16 @@ As may God grant you to be loved by another.<br>
 
 #### Discussion
 
+<details>
+<summary>Click here to see discussion.</summary>
+<br>
+
 Not only is this one of the greatest poems ever
 written in any language, it really showcases
 the magic and beauty of Russian.
+
+<br>
+<br>
 
 The throughout the poem, he refers to the formerly
 beloved using the second person formal pronoun
@@ -51,9 +60,15 @@ This seems consistent with the very gentle tone throughout the poem.
 Indeed, when I read it to myself or imagine it spoken, the tone of
 voice is so soft as to be almost a whisper.
 
+<br>
+<br>
+
 The first phase is "я вас любил"
 meaning simply "I loved you."  The word
 вас is the accusative case (director object) of вы.
+
+<br>
+<br>
 
 The next phrase is the longest one, and the only one spanning two lines:
 "любовь ещё, быть может, в душе моей угасла не совсем".
@@ -78,6 +93,9 @@ may be a literary device to indicate shades of meaning,
 or it could simply be for the sake of rhyming with
 "тревожит" two lines later.
 
+<br>
+<br>
+
 The next phrase is
 "но пусть она вас больше не тревожит".
 The mostly literal translation of
@@ -93,6 +111,9 @@ than a more generic "it" referring to the overall
 situation.  It could also simply be for the sake of
 the overall rhythm of the poem.
 
+<br>
+<br>
+
 The final phrase in the first quatrain is
 "я не хочу печалить вас ничем."  A literal
 translation is "I want to sadden you by nothing"
@@ -101,6 +122,9 @@ The word ничем is the instrumental case
 (by means of) of the word
 ничто (nothing).  A more idiomatic
 translation could be "I don't want to sadden you in any way."
+
+<br>
+<br>
 
 The first phrase of the second quatrain is
 "я вас любил безмолвно, безнадежно",
@@ -113,6 +137,9 @@ suffix.  The root word of безмолвно is молва, which is a
 somewhat colloquial word meaning speech, talk, etc.
 The root word of безнадежно is надежда, which means
 hope, and is also a common Russian first name.
+
+<br>
+<br>
 
 The next phrase is
 "то робостью, то ревностью томим".
@@ -141,6 +168,9 @@ or perhaps
 "tormented now by diffidence and jealousy"
 to better capture the cadence of spoken English.
 
+<br>
+<br>
+
 The next phrase is
 "я вас любил так искренно, так нежно"
 which means
@@ -157,6 +187,8 @@ to the next one seems to suggest that
 a better translation would be
 "I loved you so sincerely and so gently".
 
+<br>
+<br>
 
 The final phrase of the poem is
 "как дай вам Бог любимой быть другим."
@@ -181,4 +213,8 @@ rhymes with томим two lines earlier.  However, it's
 also the case that in addition to "another"
 друг can also mean "friend", so the usage of
 the adjective eliminates any potential ambiguity.
+
+</details>
+
+<br>
 
