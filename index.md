@@ -21,19 +21,29 @@ To go to the older, more complete version, click [here](old_version).
 - M.S. Physics, Vanderbilt University, 2009
 - B.S. Physics, Seton Hall University, 2005
 
+My [ORCID](https://orcid.org) is [0000-0001-5169-1698](https://orcid.org/0000-0001-5169-1698).
+
 
 
 ### Selected Publications
 
-[Selected Publications](selected_publications.html).
+[Selected Publications](selected_publications.html)
+
+
 
 ### Additional Information
 
-[Additional Information](additional_information.html).
+[Additional Information](additional_information.html)
+
+
 
 ### Temporary links
 
-[Detectors](detectors.html).
+[PHENIX DAP project](https://phenixcollaboration.github.io/web/)
+
+[My fork of the PHENIX DAP project](https://github.com/belmonrj/web)
+
+[Detectors](detectors.html)
 
 
 
