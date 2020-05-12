@@ -4,10 +4,12 @@ layout: default
 ---
 
 
-### Old Website
 
-This new website is a work in progress.
-To go to the older, more complete version, click [here](old_version).
+### Introduction
+
+Greetings and salutations!  My name is Ron and I'm a high energy nuclear physicist.
+Welcome to my website!  You'll find information about me below.  This website is
+mostly intended to be professional, but you'll find some personal stuff too.
 
 
 
@@ -33,7 +35,14 @@ My [ORCID](https://orcid.org) is [0000-0001-5169-1698](https://orcid.org/0000-00
 
 ### Additional Information
 
-[Additional Information](additional_information.html)
+[Additional Information](additional.html)
+
+
+
+### Old Website
+
+This new website is a work in progress.
+To go to the older, more complete version, click [here](old_version).
 
 
 
