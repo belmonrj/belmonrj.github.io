@@ -13,7 +13,3 @@ layout: default
 - Bunnies
 - [Airplanes](planes.html)
 - [Languages and linguistics](langling.html)
-- [Русский язык](russian.html)
-- [中文](chinese.html)
-- [Español](spanish.html)
-
