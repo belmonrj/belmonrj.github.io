@@ -29,7 +29,7 @@ My [ORCID](https://orcid.org) is [0000-0001-5169-1698](https://orcid.org/0000-00
 
 ### Selected Publications
 
-[Selected Publications](selected_publications.html)
+[Selected Publications](selected.html)
 
 
 
