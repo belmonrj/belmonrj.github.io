@@ -94,13 +94,13 @@ and animals (e.g. `el perro`, `la perra`).  And Luba is a girl.  A very good gir
 
 Now let's look at a sentence that indicates possession.
 Here's pictorial explanation as a visual aid:<br>
-<img src="/assets/images/la_pelota_de_luba.png" alt="Luba with tennis ball" title="La pelota de Luba es en el piso." width="200" />
+<img src="/assets/images/la_pelota_de_luba.png" alt="Luba with tennis ball" title="La pelota de Luba está en el piso." width="200" />
 
 Sentence | Explanation
 -------- | -----------
 Luba's ball is on the floor. | `Luba's` indicates possession. (The subject is `ball` or `Luba's ball`, `on the floor` is a prepositional phrase.)
 Любы мяч на поле. | `Любы` is in the genitive case.  (The Russian word for floor is `пол`, `поле` is in the prepositional case.)
-La pelota de Luba es en el piso. | The preposition `de` indicates possession.
+La pelota de Luba está en el piso. | The preposition `de` indicates possession.
 
 
 
