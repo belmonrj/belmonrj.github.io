@@ -8,8 +8,7 @@ layout: default
 ### Introduction
 
 I absolutely love languages.  This includes, but is not at all limited to, my native
-language of English.  I have what I call, for lack of a better term, linguistics
-ADD---there are many languages that have taken hold of my interest over the years.  Below
+language of English.  There are many languages that have taken hold of my interest over the years.  Below
 are some specific pages dedicated to some that have grabbed my attention recently.  If you
 do not see your own language, please let me know!  If you send me an email with a few
 words of your native language, you will make me very happy!
@@ -67,6 +66,10 @@ orthography is not only spelling.  Moreover, there is some overlap between ortho
 accidence, in the sense that the form of words is part of orthography, regardless of their
 role in conveying meaning.
 
+What is meant by _grammar_ is also usually clear to the casual reader.  It consists primarily
+of accidence and syntax, and occasionally of orthography as well (e.g. a mistakenly added or
+ommitted apostrophe is a mistake of orthography, or of both orthography and accidence).
+
 <br>
 <br>
 
@@ -78,7 +81,10 @@ In some cases, individual countries have national academies that actively prescr
 best practices for the language(s) indigenous to that country.  In other cases, there is
 no governing body, and the language evolves freely on its own.
 
-
-
-
-
+English, for example, is not regulated by any governing body.  There are some widely
+acknowledged "style guides", e.g. The Associated Press Stylebook, that make recommendations
+about grammar and usage.  Most English language dictionaries, including the Oxford English Dictionary,
+are purely descriptive.  For example, use of the word
+[literally](https://www.merriam-webster.com/dictionary/literally)
+as an intensifier
+rather than to indicate something in actuality is now listed in most dictionaries.
