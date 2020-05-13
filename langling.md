@@ -72,6 +72,9 @@ is in the accusative case (the nominative is `Люба`), indicating it's the di
 If we reverse the names, as we did in our first alternate sentence, we get `Любу любит Рон`,
 which has the _same meaning_ as the original.  We can also do `Любит Любу Рон`,
 `Любу Рон любит`, etc., and the we get grammatical sentence with the same meaning.
+If we want to reverse the meaning, we have to change individual words themselves, rather
+than the order, to obtain `Люба любит Рона`.  As before, we can use any word order we like,
+and the meaning is the same.
 
 #### Spelling and Grammar
 
