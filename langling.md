@@ -10,8 +10,8 @@ layout: default
 I absolutely love languages.  This includes, but is not at all limited to, my native
 language of English.  There are many languages that have taken hold of my interest over the years.  Below
 are some specific pages dedicated to some that have grabbed my attention recently.  If you
-do not see your own language, please let me know!  If you send me an email with a few
-words of your native language, you will make me very happy!
+do not see your own language, please let me know---if you send me an email with a few
+words of your native language, it would really make my day!
 
 
 - [Русский язык](russian.html)
@@ -58,6 +58,20 @@ meaning the words may change form significantly depending on their role.
 Syntax refers to the way words are combined to convey meaning.  Individual words have their
 own meaning, and combinations of words have a meaning that may or may not be the trivial
 combination of their individual meanings.
+
+There are many aspects of syntax, but a key one
+is word order.  In highly inflected languages, the word order is rather flexible.  In
+weakly inflected languages, slight changes in word order can change the meaning.
+
+Consider the English sentence `Ron loves Luba`.  If we change the word order to
+`Luba loves Ron` we get a _different meaning_.  If we change it to `Loves Luba Ron`,
+`Luba Ron loves`, etc., we get ungrammatical and meaningless sentences.
+Now let's translate the original sentence into Russian: `Рон любит Любу`.
+The word `Рон` is in the nominative case, indicating it's the subject,  and the word `Любу`
+is in the accusative case (the nominative is `Люба`), indicating it's the direct object.
+If we reverse the names, as we did in our first alternate sentence, we get `Любу любит Рон`,
+which has the _same meaning_ as the original.  We can also do `Любит Любу Рон`,
+`Любу Рон любит`, etc., and the we get grammatical sentence with the same meaning.
 
 #### Spelling and Grammar
 

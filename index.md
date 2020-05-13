@@ -7,8 +7,8 @@ layout: default
 
 ### Introduction
 
-Greetings and salutations!  My name is Ron and I'm a high energy nuclear physicist.
-Welcome to my website!  You'll find information about me below.  This website is
+Greetings and welcome to my website!  My name is Ron and I'm a high energy nuclear physicist.
+You'll find information about me below.  This website is
 mostly intended to be professional, but you'll find some personal stuff too.
 
 
