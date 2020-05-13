@@ -88,17 +88,19 @@ by adding a preposition (syntax).
 I'll use Spanish as an example:
 `la perra` (singular), `de la perra` (singular possessive), `las perras` (plural), `de las perras` (plural possessive).
 You may protest that the Spanish word for dog is `el perro`, not `la perra`.
-It's quite common for words refering to living creatures to change based on the
-gender of the thing in question.  This goes for both professions (e.g. `el profesor`, `la profesora`)
+It's quite common for words referring to living creatures to change based on the
+gender of the thing in question.  This goes for human professions (e.g. `el profesor`, `la profesora`)
 and animals (e.g. `el perro`, `la perra`).  And Luba is a girl.  A very good girl.
 
 Now let's look at a sentence that indicates possession.
+Here's pictorial explanation as a visual aid:<br>
+<img src="/assets/images/la_pelota_de_luba.png" alt="Luba with tennis ball" title="La pelota de Luba es en el piso." width="200" />
 
 Sentence | Explanation
 -------- | -----------
-Luba's ball is on the table. | `Luba's` indicates possession. (The subject is `ball` or `Luba's ball`, `on the table` is a prepositional phrase.)
-Любы мяч на столе. | `Любы` is in the genitive case.  (The Russian word for table is `стол`, `столе` is in the prepositional case.)
-La pelota de Luba es en la mesa. | The preposition `de` indicates possession.
+Luba's ball is on the floor. | `Luba's` indicates possession. (The subject is `ball` or `Luba's ball`, `on the floor` is a prepositional phrase.)
+Любы мяч на поле. | `Любы` is in the genitive case.  (The Russian word for floor is `пол`, `поле` is in the prepositional case.)
+La pelota de Luba es en el piso. | The preposition `de` indicates possession.
 
 
 
@@ -109,8 +111,9 @@ own meaning, and combinations of words have a meaning that may or may not be the
 combination of their individual meanings.
 
 There are many aspects of syntax, but a key one
-is word order.  In highly inflected languages, the word order is rather flexible.  In
-weakly inflected languages, slight changes in word order can change the meaning.
+is word order.  In highly inflected languages, the word order is flexible.  In
+weakly inflected languages, the word order is rigid, and slight changes in word order can
+change the meaning (or render the statement meaningless).
 
 Consider the English sentence `Ron loves Luba`.  If we change the word order to
 `Luba loves Ron` we get a _different meaning_.  If we change it to `Loves Luba Ron`,
@@ -136,15 +139,64 @@ role in conveying meaning.
 
 What is meant by _grammar_ is also usually clear to the casual reader.  It consists primarily
 of accidence and syntax, and occasionally of orthography as well (e.g. a mistakenly added or
-ommitted apostrophe is a mistake of orthography, or of both orthography and accidence).
+omitted apostrophe is a mistake of orthography, or of both orthography and accidence).
+
+Sometimes, these things can be blended in highly non-trivial ways.
+Consider the highly (grammatically) treacherous sentence `they're walking towards their car over there`.
+The words `they're`, `their`, and `there` are phonologically identical (viz. they sound the same)
+but semantically distinct (viz. they all mean different things).
+A sentence like `theyre walking towards their car over there` has only a trivial orthographic
+mistake, viz. the contraction should be `they+are=they're, not theyre`.
+A sentence like `their walking towards their care over there`, on the other hand, has a mistake
+that is both orthographical and _accidental_, in that it is both a misspelling and a use of the
+wrong form of the word `they`.
+A sentence like the preciding or `there walking towards there car over there`
+is the kind of thing that will make
+a high school English teacher cry tears of blood, since it contains mistakes of accidence, syntax,
+and semantics, since the word `there` is not supposed to be used that way, which leads to a sentence
+that is semantically meaningless.  In English, it's a very easy mistake to make (and indeed
+mergers and swaps
+of they're, their, and there are quite common) _because they sound the same_.
+But the way in
+which this is obviously gibberish becomes quite clear upon translation into other languages
+in which those words are not homonyms.
+
+English | Russian | Spanish
+------- | ------- | -------
+They're walking towards their car over there. | Они ходят к своей машине там. | Ellos caminan hacia su carro allá.
+There walking towards there car over there. (This is wrong but intelligible.) | Там ходят к там машине там. (This is complete gibberish.) | Allá caminan hacia allá carro allá. (This is complete gibberish.)
+Their walking towards their car over their. (This is wrong but intelligible.) | Их ходят к их машине их. (This is complete gibberish.) | Su caminan hacia su carro su. (This is complete gibberish.)
+
+The astute reader will observe two different words for `their` in Russian:
+`их = their` and `свой = their (own)`, with the further complication that
+as it appears in context, свой is своей because the preposition к takes the dative case.
+
+If you read the above and saw the prepositional case and are now wondering how it is that some
+prepositions take the prepositional case and others take different cases, you are experiencing
+something that many students of Russian go through.  No naturally evolved language in the
+world is purely logical.  In a way, that's what makes them human and, as frustrating as it
+may be to try to learn such irregularities, that's what makes them special and beautiful and worth learning.
+
+Back to the original point, both English and Spanish have a built-in ambiguity about who 'they'
+are.  In English, this sentence is almost always interpreted in such a way that the they 'they' referred
+to by `their` is the same 'they' referred to by `they're`.  Occasionally, we will reinforce this by
+adding the word `own` to get the sentence `they're walking towards their own car`, their own as
+distinguished from somebody else's.  There's no way in English to specify a _different_ they.
+In Russian, one always uses various forms of `свой` or `себя/себе/собой` when referring to the
+same person as the subject.
+So `oни ходят к своей машине там` more specifically means `they're walking towards their own car`,
+while `oни ходят к их машине там` would mean `they're walking towards some other group of people's car`;
+it is a rather odd construction that would probably be phrased in a different way.
+
+
 
 <br>
 <br>
 
 ### Descriptive vs prescriptive linguistics
 
-Generally speaking, linguistics is a *descriptive* field, meaning it *descibes* how
-languages work, in contradistinction to how one might belive that languages *should* work.
+Generally speaking, linguistics is a *descriptive* field, meaning it *describes* how
+languages work, in contradistinction to how one might believe that languages *should* work.
 In some cases, individual countries have national academies that actively prescribe the
 best practices for the language(s) indigenous to that country.  In other cases, there is
 no governing body, and the language evolves freely on its own.
@@ -156,3 +208,4 @@ are purely descriptive.  For example, use of the word
 [literally](https://www.merriam-webster.com/dictionary/literally)
 as an intensifier
 rather than to indicate something in actuality is now listed in most dictionaries.
+
