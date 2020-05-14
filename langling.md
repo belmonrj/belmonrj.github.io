@@ -146,7 +146,7 @@ Consider the highly (grammatically) treacherous sentence `they're walking toward
 The words `they're`, `their`, and `there` are phonologically identical (viz. they sound the same)
 but semantically distinct (viz. they all mean different things).
 A sentence like `theyre walking towards their car over there` has only a trivial orthographic
-mistake, viz. the contraction should be `they+are=they're, not theyre`.
+mistake, viz. the contraction should be `they + are = they're, not theyre`.
 A sentence like `their walking towards their care over there`, on the other hand, has a mistake
 that is both orthographical and _accidental_, in that it is both a misspelling and a use of the
 wrong form of the word `they`.
@@ -169,7 +169,7 @@ Their walking towards their car over their. (This is wrong but intelligible.) | 
 
 The astute reader will observe two different words for `their` in Russian:
 `их = their` and `свой = their (own)`, with the further complication that
-as it appears in context, свой is своей because the preposition к takes the dative case.
+as it appears in context, `свой` takes the form `своей` because the preposition `к` takes the dative case.
 
 If you read the above and saw the prepositional case and are now wondering how it is that some
 prepositions take the prepositional case and others take different cases, you are experiencing
