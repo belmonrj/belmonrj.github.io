@@ -46,13 +46,3 @@ To go to the older, more complete version, click [here](old_version).
 
 
 
-### Temporary links
-
-[PHENIX DAP project](https://phenixcollaboration.github.io/web/)
-
-[My fork of the PHENIX DAP project](https://github.com/belmonrj/web)
-
-[Detectors](detectors.html)
-
-
-
