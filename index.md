@@ -23,6 +23,8 @@ mostly intended to be professional, but you'll find some personal stuff too.
 - M.S. Physics, Vanderbilt University, 2009
 - B.S. Physics, Seton Hall University, 2005
 
+Here's a recent-ish copy of my [CV](/assets/files/cv_full.pdf)
+
 My [ORCID](https://orcid.org) is [0000-0001-5169-1698](https://orcid.org/0000-0001-5169-1698).
 
 
