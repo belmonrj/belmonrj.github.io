@@ -18,12 +18,12 @@ Collectivity in small systems: experiment | Initial Stages | 10 January 2021 | [
 PHENIX results on small systems collectivity at RHIC | RHIC & AGS AUM | 22 October 2020 | [PDF](/assets/talks/aum20.pdf)
 Small systems in heavy ion collisions | JETSCAPE Workshop | 19 March 2020 | [PDF](/assets/talks/jetscape.pdf)
 Droplets of quark gluon plasma: PHENIX results on small systems at RHIC | Winter Workshop | 2 March 2020 | [PDF](/assets/talks/wwnd20.pdf)
-Towards a quantitative understanding of the QGP | Fall DNP | October 2019 | [PDF]
-Droplets of quark gluon plasma: small systems at RHIC | ISMD | September 2019 | [PDF]
-PHENIX Highlights | RHIC & AGS AUM | June 2019 | [PDF]
-Small systems: some recent results | Lehigh Seminar | February 2019 | [PDF]
-Small systems in heavy ion collisions: creating droplets of the early universe? | Lehigh Colloquium | February 2019 | [PDF]
-Overview of heavy ion physics at PHENIX | Cracow Epiphany | January 2019 | [PDF]
+Towards a quantitative understanding of the QGP | Fall DNP | 15 October 2019 | [PDF](/assets/talks/dnp19.pdf)
+Droplets of quark gluon plasma: small systems at RHIC | ISMD | 10 September 2019 | [PDF](/assets/talks/ismd19.pdf)
+PHENIX Highlights | RHIC & AGS AUM | 6 June 2019 | [PDF](/assets/talks/phenix_aum19.pdf)
+Small systems: some recent results | Lehigh Seminar | 1 February 2019 | [PDF](/assets/talks/lehigh_seminar.pdf)
+Small systems in heavy ion collisions: creating droplets of the early universe? | Lehigh Colloquium | 31 January 2019 | [PDF](/assets/talks/lehigh_colloquium.pdf)
+Overview of heavy ion physics at PHENIX | Cracow Epiphany | 8 January 2019 | [PDF](/assets/talks/phenix_cec19.pdf)
 Small systems in heavy ion collisions: creating droplets of the early universe? | NCSU Colloquium | November 2018 | [PDF]
 Small systems at RHIC: experimental perspective | Collectivity in Small Systems | June 2018 | [PDF]
 Flow in small systems: a few recent results | Utrecth Universiteit Seminar | May 2018 | [PDF]
