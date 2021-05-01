@@ -24,32 +24,33 @@ PHENIX Highlights | RHIC & AGS AUM | 6 June 2019 | [PDF](/assets/talks/phenix_au
 Small systems: some recent results | Lehigh Seminar | 1 February 2019 | [PDF](/assets/talks/lehigh_seminar.pdf)
 Small systems in heavy ion collisions: creating droplets of the early universe? | Lehigh Colloquium | 31 January 2019 | [PDF](/assets/talks/lehigh_colloquium.pdf)
 Overview of heavy ion physics at PHENIX | Cracow Epiphany | 8 January 2019 | [PDF](/assets/talks/phenix_cec19.pdf)
-Small systems in heavy ion collisions: creating droplets of the early universe? | NCSU Colloquium | November 2018 | [PDF]
-Small systems at RHIC: experimental perspective | Collectivity in Small Systems | June 2018 | [PDF]
-Flow in small systems: a few recent results | Utrecth Universiteit Seminar | May 2018 | [PDF]
-Perspectives from the PHENIX experiment: highlights | Quark Matter | May 2018 | [PDF]
-The initial state and early time dynamics in heavy ion collisions | APS April | April 2018 | [PDF]
-Searching for collectivity and testing the limits of hydrodynamics: small systems at RHIC | Stony Brook Seminar | January 2018 | [PDF]
-A tale of three QGPs: the large, the small, and the exotic | Colorado School of Mines Colloquium | November 2017 | [PDF]
-Searching for collectivity and testing the limits of hydrodynamics: understanding small systems in heavy ion collisions | LANL Seminar | November 2017 | [PDF]
-Longitudinal dynamics and collective behavior in the d+Au beam energy scan | Initial Stages | September 2017 | [PDF]
-Experimental searches for local parity violation in heavy ion collisions | University of Houston Seminar | June 2017 | [PDF]
-PHENIX results on the Run16 d+Au beam energy scan | RHIC & AGS AUM | June 2017 | [PDF]
-Searching for collectivity and testing the limits of hydrodynamics from the 2016 d+Au beam energy scan | BNL Seminar | May 2017 | [PDF]
-PHENIX results on multiparticle correlations in small systems | Quark Matter | February 2017 | [PDF]
-Experimental searches for P-violating processes in heavy in collisions | CORE-U | March 2016 | [PDF]
-Overview of experimental searches for local parity violating effects | ALICE Juniors Day | March 2015 | [PDF]
-A brief review of results from the ALICE collaboration | Lake Louise | February 2015 | [PDF]
-Charge dependent flow measurements and the search for the Chiral Magnetic Wave in ALICE | Chirality, Voricity, and Magnetic Fields | January 2015 | [PDF]
-Charge dependent flow measurements and the search for the Chiral Magnetic Wave in ALICE | Quark Matter | May 2014 | [PDF]
-A continuation of the RAA discussion: what we can learn from identified hadrons | Wayne State Seminar | February 2014 | [PDF]
-Identified charged hadron spectra and ratios in PHENIX | Strangeness in Quark Matter | August 2013 | [PDF]
-The other side of RHIC: a little bit about heavy ion physics, with an emphasis on identified hadrons | University of Michigan Seminar | April 2013 | [PDF]
-Identified charged hadron spectra and ratios in Au+Au and d+Au collisions | APS April | April 2013 | [PDF]
-Energy loss and flavor dynamics from single-particle measurements in PHENIX | Quark Matter | March 2009 | [PDF]
-Various aspects of deuteron and antideuteron spectra in Au+Au collisions | Hot Quarks | August 2008 | [PDF]
-PHENIX TOFW Run7 performance results | SESAPS | November 2007 | [PDF]
-PHENIX TOFW Run7 performance results | Fall DNP | October 2007 | [PDF]
+Small systems in heavy ion collisions: creating droplets of the early universe? | NCSU Colloquium | 26 November 2018 | [PDF](/assets/talks/ncsu.pdf)
+Small systems at RHIC: experimental perspective | Collectivity in Small Collision Systems | 13 June 2018 | [PDF](/assets/talks/cscs18.pdf)
+Flow in small systems: a few recent results | Utrecth Universiteit Seminar | 23 May 2018 | [PDF](/assets/talks/uu.pdf)
+Perspectives from the PHENIX experiment: highlights | Quark Matter | 14 May 2018 | [PDF](/assets/talks/phenix_qm18.pdf)
+The initial state and early time dynamics in heavy ion collisions | APS April | 16 April 2018 | [PDF](/assets/talks/aps18.pdf)
+Searching for collectivity and testing the limits of hydrodynamics: small systems at RHIC | Stony Brook Seminar | 25 January 2018 | [PDF](/assets/talks/stony.pdf)
+A tale of three QGPs: the large, the small, and the exotic | Colorado School of Mines Colloquium | 28 November 2017 | [PDF](/assets/talks/mines.pdf)
+Searching for collectivity and testing the limits of hydrodynamics: understanding small systems in heavy ion collisions | LANL Seminar | 9 November 2017 | [PDF](/assets/talks/lanl.pdf)
+Longitudinal dynamics and collective behavior in the d+Au beam energy scan | Initial Stages | 21 September 2017 | [PDF](/assets/talks/is17.pdf)
+Experimental searches for local parity violation in heavy ion collisions | University of Houston Seminar | 30 June 2017 | [PDF](/assets/talks/houston.pdf)
+PHENIX results on the Run16 d+Au beam energy scan | RHIC & AGS AUM | 20 June 2017 | [PDF](/assets/talks/aum17.pdf)
+Searching for collectivity and testing the limits of hydrodynamics from the 2016 d+Au beam energy scan | BNL Seminar | 23 May 2017 | [PDF](/assets/talks/bnl.pdf)
+PHENIX results on multiparticle correlations in small systems | Quark Matter | 7 February 2017 | [PDF](/assets/talks/qm17.pdf)
+Experimental searches for P-violating processes in heavy in collisions | CORE-U | 8 March 2016 | [PDF](/assets/talks/coreu.pdf)
+Overview of experimental searches for local parity violating effects | ALICE Juniors Day | 12 March 2015 | [PDF](/assets/talks/ajd.pdf)
+A brief review of results from the ALICE collaboration | Lake Louise | 16 February 2015 | [PDF](/assets/talks/llwi.pdf)
+Charge dependent flow measurements and the search for the Chiral Magnetic Wave in ALICE | Chirality, Vorticity, and Magnetic Fields | 21 January 2015 | [PDF](/assets/talks/ucla15.pdf)
+Charge dependent flow measurements and the search for the Chiral Magnetic Wave in ALICE | Quark Matter | 20 May 2014 | [PDF](/assets/talks/qm14.pdf)
+A continuation of the RAA discussion: what we can learn from identified hadrons | Wayne State Seminar | 21 February 2014 | [PDF](/assets/talks/wsu14.pdf)
+Identified charged hadron spectra and ratios in PHENIX | Strangeness in Quark Matter | 22 July 2013 | [PDF](/assets/talks/sqm13.pdf)
+Identified charged hadron spectra and ratios in Au+Au and d+Au collisions | APS April | 13 April 2013 | [PDF](/assets/talks/aps13.pdf)
+The other side of RHIC: a little bit about heavy ion physics, with an emphasis on identified hadrons | University of Michigan Seminar | 1 April 2013 | [PDF](/assets/talks/um.pdf)
+Identified Charged Hadron Spectra and Ratios in Au+Au and d+Au Collisions | Wayne State Seminar | 4 February 2013 | [PDF](/assets/talks/wsu13.pdf)
+Energy loss and flavor dynamics from single-particle measurements in PHENIX | Quark Matter | 3 April 2009 | [PDF](/assets/talks/qm09.pdf)
+Various aspects of deuteron and antideuteron spectra in Au+Au collisions | Hot Quarks | 23 August 2008 | [PDF](/assets/talks/hq08.pdf)
+PHENIX TOFW Run7 performance results | SESAPS | November 2007 | [PDF](/assets/talks/)
+PHENIX TOFW Run7 performance results | Fall DNP | October 2007 | [PDF](/assets/talks/)
 
 
 
