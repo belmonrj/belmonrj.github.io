@@ -7,7 +7,6 @@ layout: default
 
 ### Talks
 
-Under construction!
 
 
 {% for var in site.data.talks.vars %}
