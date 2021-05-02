@@ -35,50 +35,50 @@
   short: ppg206
 
 - title: 'Design and Beam Test Results for the sPHENIX Electromagnetic and Hadronic Calorimeter Prototypes'
-  journ: '[]()'
+  journ: '[TNS.65.2901](https://ieeexplore.ieee.org/document/8519782)'
   arxiv: '[arXiv:1704.01461](https://arxiv.org/abs/1704.01461)'
-  doi:
+  doi: 10.1109/TNS.2018.2879047
   short: t1044-2016
 
 - title: 'To CME or not to CME? Implications of p+Pb measurements of the Chiral Magnetic Effect in heavy ion collisions'
-  journ: '[]()'
+  journ: '[PhysRevC.96.024901](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.024901)'
   arxiv: '[arXiv:1610.07964](https://arxiv.org/abs/1610.07964)'
-  doi:
+  doi: 10.1103/PhysRevC.96.024901
   short: cme-jamie
 
 - title: 'Exploring the Beam Energy Dependence of Flow-Like Signatures in Small System d+Au Collisions'
-  journ: '[]()'
+  journ: '[](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.044910)'
   arxiv: '[arXiv:1512.06949](https://arxiv.org/abs/1512.06949)'
-  doi:
+  doi: 10.1103/PhysRevC.93.044910
   short: daubes-javier
 
 - title: 'Charge-dependent anisotropic flow studies and the search for the Chiral Magnetic Wave in Pb+Pb collisions at sqrt(s_NN) = 2.76 TeV'
-  journ: '[]()'
+  journ: '[PhysRevC.93.044903](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.044903)'
   arxiv: '[arXiv:1512.05739](https://arxiv.org/abs/1512.05739)'
-  doi:
+  doi: 10.1103/PhysRevC.93.044903
   short: cmw-alice
 
 - title: 'Charge-dependent anisotropic flow studies and the search for the Chiral Magnetic Wave in ALICE'
-  journ: '[]()'
-  arxiv: '[arXiv/1408.1043](https://arxiv.org/abs/1408.1043)'
-  doi:
+  journ: '[JNuclPhysA.931.981](https://www.sciencedirect.com/science/article/abs/pii/S0375947414004527)'
+  arxiv: '[arXiv:1408.1043](https://arxiv.org/abs/1408.1043)'
+  doi: 10.1016/j.nuclphysa.2014.09.070
   short: cmw-alice-proceedings
 
 - title: 'Measuring and interpreting charge dependent anisotropic flow'
-  journ: '[]()'
-  arxiv: '[arXiv/1408.0714](https://arxiv.org/abs/1408.0714)'
-  doi:
+  journ: '[JNuclPhysA.931.992](https://www.sciencedirect.com/science/article/abs/pii/S0375947414003996)'
+  arxiv: '[arXiv:1408.0714](https://arxiv.org/abs/1408.0714)'
+  doi: 10.1016/j.nuclphysa.2014.09.030
   short: cmw-sergei
 
 - title: 'Spectra and ratios of identified particles in Au+Au and d+Au collisions at sqrt(s_NN)=200 GeV'
-  journ: '[]()'
-  arxiv: '[arXiv/1304.3410](https://arxiv.org/abs/1304.3410)'
-  doi:
+  journ: '[PhysRevC.88.024906](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.024906)'
+  arxiv: '[arXiv:1304.3410](https://arxiv.org/abs/1304.3410)'
+  doi: 10.1103/PhysRevC.88.024906
   short: ppg146
 
 - title: 'Deviation from quark-number scaling of the anisotropy parameter v_2 of pions, kaons, and protons in Au+Au collisions at sqrt(s_NN) = 200 GeV'
-  journ: '[]()'
-  arxiv: '[arXiv/1203.2644](https://arxiv.org/abs/1203.2644)'
-  doi:
+  journ: '[PhysRevC.85.064914](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.85.064914)'
+  arxiv: '[arXiv:1203.2644](https://arxiv.org/abs/1203.2644)'
+  doi: 10.1103/PhysRevC.85.064914
   short: ppg123
 
