@@ -9,6 +9,8 @@ layout: default
 
 Under construction!
 
+
+
 Title | Conference/Venue | Date | File
 ----- | ---------- | ---- | ----
 Hydrodynamics and RHIC data | APS April | 18 April 2021 | [PDF](https://www.phenix.bnl.gov/~belmonrj/talks/aps21.pdf)
@@ -59,6 +61,50 @@ PHENIX TOFW Run7 performance results | Fall DNP | 13 October 2007 | [PDF](https:
 
 
 
+
+{% for var in site.data.talks.vars %}
+   {%- assign print_title = var.title -%}
+   {%- assign print_venue = var.venue -%}
+   {%- assign print_date = var.date -%}
+   {%- assign print_file = var.file -%}
+   {%- assign print_me = '- ' | append: print_title | append: ' <br> ' | append: print_venue | append: ', ' | append: print_date | append: ', ' | append: print_file | append: ' <br><br> ' %}
+   {{ print_me }}
+{%- endfor -%}
+{{ nil }}
+
+
+
+
+
+
+
+
+
+
+{% for var in site.data.talks.vars %}
+   {%- assign print_title = var.title -%}
+   {%- assign print_venue = var.venue -%}
+   {%- assign print_date = var.date -%}
+   {%- assign print_file = var.file -%}
+   {%- assign print_me = print_title | append: ' <br> ' | append: print_venue | append: ', ' | append: print_date | append: ', ' | append: print_file | append: ' <br><br> ' %}
+   {{ print_me }}
+{%- endfor -%}
+{{ nil }}
+
+
+
+
+
+
+{% for var in site.data.talks.vars %}
+   {%- assign print_title = var.title -%}
+   {%- assign print_venue = var.venue -%}
+   {%- assign print_date = var.date -%}
+   {%- assign print_file = var.file -%}
+   {%- assign print_me = print_title | append: ' <br> ' | append: print_venue | append: ' <br> ' | append: print_date | append: ' <br> ' | append: print_file | append: ' <br><br> ' %}
+   {{ print_me }}
+{%- endfor -%}
+{{ nil }}
 
 
 
