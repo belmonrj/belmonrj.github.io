@@ -1,0 +1,84 @@
+- title: 'Pseudorapidity dependence of particle production and elliptic flow in asymmetric nuclear collisions of p+Al, p+Au, d+Au, and 3He+Au at sqrt(s_NN) = 200 GeV'
+  journ: '[PhysRevLett.121.222301](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.222301)'
+  arxiv: '[arXiv:1807.11928](https://arxiv.org/abs/1807.11928)'
+  doi: 10.1103/PhysRevLett.121.222301
+  short: ppg221
+
+- title: 'Creating small circular, elliptical, and triangular droplets of quark-gluon plasma'
+  journ: '[NatPhys.15.214](https://www.nature.com/articles/s41567-018-0360-0)'
+  arxiv: '[arXiv:1805.02973](https://arxiv.org/abs/1805.02973)'
+  doi: 10.1038/s41567-018-0360-0
+  short: ppg216
+
+- title: 'Multi-particle azimuthal correlations for extracting event-by-event elliptic and triangular flow in Au+Au collisions at sqrt(s_NN) = 200 GeV'
+  journ: '[PhysRevC.99.024903](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.024903)'
+  arxiv: '[arXiv:1804.10024](https://arxiv.org/abs/1804.10024)'
+  doi: 10.1103/PhysRevC.99.024903
+  short: ppg218
+
+- title: 'Measurements of mass-dependent azimuthal anisotropy in central p+Au, d+Au, and 3He+Au collisions at sqrt(s_NN) = 200 GeV'
+  journ: '[PhysRevC.97.064904](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.97.064904)'
+  arxiv: '[arXiv:1710.09736](https://arxiv.org/abs/1710.09736)'
+  doi: 10.1103/PhysRevC.97.064904
+  short: ppg207
+
+- title: 'Measurements of azimuthal anisotropy and charged-particle multiplicity in d+Au collisions at sqrt(s_NN) = 200, 62.4, 39, and 19.6 GeV'
+  journ: '[PhysRevC.96.064905](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.064905)'
+  arxiv: '[arXiv:1708.06983](https://arxiv.org/abs/1708.06983)'
+  doi: 10.1103/PhysRevC.96.064905
+  short: ppg205
+
+- title: 'Measurements of multiparticle correlations in d+Au collisions at 200, 62.4, 39, and 19.6 GeV and p+Au collisions at 200 GeV and implications for collective behavior'
+  journ: '[PhysRevLett.120.062302](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.062302)'
+  arxiv: '[arXiv:1707.06108](https://arxiv.org/abs/1707.06108)'
+  doi: 10.1103/PhysRevLett.120.062302
+  short: ppg206
+
+- title: 'Design and Beam Test Results for the sPHENIX Electromagnetic and Hadronic Calorimeter Prototypes'
+  journ: '[]()'
+  arxiv: '[arXiv:1704.01461](https://arxiv.org/abs/1704.01461)'
+  doi:
+  short: t1044-2016
+
+- title: 'To CME or not to CME? Implications of p+Pb measurements of the Chiral Magnetic Effect in heavy ion collisions'
+  journ: '[]()'
+  arxiv: '[arXiv:1610.07964](https://arxiv.org/abs/1610.07964)'
+  doi:
+  short: cme-jamie
+
+- title: 'Exploring the Beam Energy Dependence of Flow-Like Signatures in Small System d+Au Collisions'
+  journ: '[]()'
+  arxiv: '[arXiv:1512.06949](https://arxiv.org/abs/1512.06949)'
+  doi:
+  short: daubes-javier
+
+- title: 'Charge-dependent anisotropic flow studies and the search for the Chiral Magnetic Wave in Pb+Pb collisions at sqrt(s_NN) = 2.76 TeV'
+  journ: '[]()'
+  arxiv: '[arXiv:1512.05739](https://arxiv.org/abs/1512.05739)'
+  doi:
+  short: cmw-alice
+
+- title: 'Charge-dependent anisotropic flow studies and the search for the Chiral Magnetic Wave in ALICE'
+  journ: '[]()'
+  arxiv: '[arXiv/1408.1043](https://arxiv.org/abs/1408.1043)'
+  doi:
+  short: cmw-alice-proceedings
+
+- title: 'Measuring and interpreting charge dependent anisotropic flow'
+  journ: '[]()'
+  arxiv: '[arXiv/1408.0714](https://arxiv.org/abs/1408.0714)'
+  doi:
+  short: cmw-sergei
+
+- title: 'Spectra and ratios of identified particles in Au+Au and d+Au collisions at sqrt(s_NN)=200 GeV'
+  journ: '[]()'
+  arxiv: '[arXiv/1304.3410](https://arxiv.org/abs/1304.3410)'
+  doi:
+  short: ppg146
+
+- title: 'Deviation from quark-number scaling of the anisotropy parameter v_2 of pions, kaons, and protons in Au+Au collisions at sqrt(s_NN) = 200 GeV'
+  journ: '[]()'
+  arxiv: '[arXiv/1203.2644](https://arxiv.org/abs/1203.2644)'
+  doi:
+  short: ppg123
+
