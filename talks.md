@@ -49,8 +49,8 @@ The other side of RHIC: a little bit about heavy ion physics, with an emphasis o
 Identified Charged Hadron Spectra and Ratios in Au+Au and d+Au Collisions | Wayne State Seminar | 4 February 2013 | [PDF](/assets/talks/wsu13.pdf)
 Energy loss and flavor dynamics from single-particle measurements in PHENIX | Quark Matter | 3 April 2009 | [PDF](/assets/talks/qm09.pdf)
 Various aspects of deuteron and antideuteron spectra in Au+Au collisions | Hot Quarks | 23 August 2008 | [PDF](/assets/talks/hq08.pdf)
-PHENIX TOFW Run7 performance results | SESAPS | November 2007 | [PDF](/assets/talks/)
-PHENIX TOFW Run7 performance results | Fall DNP | October 2007 | [PDF](/assets/talks/)
+PHENIX TOFW Run7 performance results | SESAPS | 8 November 2007 | [PDF](/assets/talks/sesaps07.pdf)
+PHENIX TOFW Run7 performance results | Fall DNP | 13 October 2007 | [PDF](/assets/talks/dnp07.pdf)
 
 
 
