@@ -1,3 +1,15 @@
+- title: 'Design and Beam Test Results for the 2-D Projective sPHENIX Electromagnetic Calorimeter Prototype'
+  arxiv: 2003.13685
+  doi: 10.1109/TNS.2020.3034643
+  inspire: 1789108
+  short: t1044-2017emcal
+
+- title: 'Examination of flow and nonflow factorization methods in small collision systems'
+  arxiv: 1902.11290
+  doi: 10.1103/PhysRevC.100.024908
+  inspire: 1722500
+  short: nonflow
+
 - title: 'Pseudorapidity dependence of particle production and elliptic flow in asymmetric nuclear collisions of p+Al, p+Au, d+Au, and 3He+Au at sqrt(s_NN) = 200 GeV'
   arxiv: 1807.11928
   doi: 10.1103/PhysRevLett.121.222301
@@ -33,6 +45,12 @@
   doi: 10.1103/PhysRevLett.120.062302
   inspire: 1610655
   short: ppg206
+
+- title: 'Minimal conditions for collectivity in e+e- and p+p collisions'
+  arxiv: 1707.02307
+  doi: 10.1103/PhysRevC.97.024909
+  inspire: 1609293
+  short: ee-ampt
 
 - title: 'Design and Beam Test Results for the sPHENIX Electromagnetic and Hadronic Calorimeter Prototypes'
   arxiv: 1704.01461
