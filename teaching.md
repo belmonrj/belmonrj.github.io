@@ -30,8 +30,7 @@ More information coming soon...
 
 ### General philosophies
 
-Because I teach at a university, my students are adults and I treat them as such.
-You'll find this to be a recurring theme here.
+I teach at a university, so my students are adults---that's one of my guiding principles.
 
 - Attendance: strongly encouraged but not required and not part of the grade.
   - Why strongly encouraged?  Because class time is the best time to see the material, ask questions, and so on.
