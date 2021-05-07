@@ -8,7 +8,7 @@ layout: default
 ### Recent (and upcoming) courses
 
 
-#### Lecture courses
+##### Lecture courses
 
 - General Physics 2 (with calculus), Fall 2021
 - Thermal Physics, Spring 2021
@@ -16,14 +16,13 @@ layout: default
 - General Physics 2 (with calculus), Fall 2019
 
 
-#### Lab courses
+##### Lab courses
 
 - General Physics 1 (with calculus) Lab, Spring 2021
 - General Physics 1 Lab, so many times
 - General Physics 2 Lab, so many times
 - Modern Physics Lab
 - E&M Lab
-
 
 
 More information coming soon...
@@ -43,11 +42,18 @@ You'll find this to be a recurring theme here.
   - Why else?  Because students are adults and they can use their time as they see fit.
 - Camera during online courses: not required.
   - Why not?  Because they may have a good reason not to want the camera to be on; I respect their right to privacy.
-- Accepting late work: partial credit no questions asked, full credit if requested in advance or explanation given after the fact.
-  - Why?  Well, I mean, why not?  There are times in one's career when deadlines are very hard and need to be respected,
-    but oftentimes this is not the case, and the goal of homework, tests, etc is learning, not arbitrary punishment.
 - Final exams: never.
   - Why not?  They're extremely stressful for students, and for that reason do not provide an accurate gauge of what they know.
+- Accepting late coursework: partial credit no questions asked, full credit if requested in advance or explanation given after the fact.
+  - Why?  Well, I mean, why not?  There are times in one's career when deadlines are very hard and need to be respected,
+    but oftentimes this is not the case, and the goal of coursework is learning, not arbitrary punishment.
+- Final submissions for credit: developing based on current experiences, but my plan for the future is an extremely hard
+  cut off at 11:59 PM on the first day of finals.
+  - Why?  For a variety of reasons, but I respect my own time, and since I don't have any final exams, I'd like to be done with
+    the semester as soon as possible.
+  - Considering the previous bullet, doesn't this make you a flaming hypocrite?  Short answer: yes.  Long answer: maybe not,
+    because some deadlines really are very hard and need to be respected, and this is an important lesson that students need to learn.
+    Lines in the sand have to be drawn somewhere.
 
 
 

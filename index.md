@@ -35,7 +35,7 @@ And my defense talk [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4732678.
 
 ### Talks
 
-[Talks](talks.html)
+[Conference talks, seminars, colloquia](talks.html)
 
 
 
@@ -53,7 +53,7 @@ And my defense talk [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4732678.
 
 ### Additional Information
 
-[Additional Information](additional.html)
+[Things that are fun, silly, personal, etc](additional.html)
 
 
 
