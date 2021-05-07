@@ -45,6 +45,12 @@ And my defense talk [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4732678.
 
 
 
+### Teaching
+
+[Classes I've taught, general philosophies, etc](teaching.html)
+
+
+
 ### Additional Information
 
 [Additional Information](additional.html)
