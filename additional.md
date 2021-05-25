@@ -7,7 +7,7 @@ layout: default
 
 ### Things I like
 
-- Death Metal
+- [Death Metal](deathmetal.html)
 - Beer
 - [Dogs](dogs.html)
 - Bunnies
