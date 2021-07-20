@@ -150,7 +150,7 @@ mistake, viz. the contraction should be `they + are = they're, not theyre`.
 A sentence like `their walking towards their care over there`, on the other hand, has a mistake
 that is both orthographical and _accidental_, in that it is both a misspelling and a use of the
 wrong form of the word `they`.
-A sentence like the preciding or `there walking towards there car over there`
+A sentence like the preceding or `there walking towards there car over there`
 is the kind of thing that will make
 a high school English teacher cry tears of blood, since it contains mistakes of accidence, syntax,
 and semantics, since the word `there` is not supposed to be used that way, which leads to a sentence

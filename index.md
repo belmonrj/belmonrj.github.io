@@ -25,6 +25,8 @@ mostly intended to be professional, but you'll find some personal stuff too.
 
 Here's a recent-ish copy of my [CV](/assets/files/cv_full.pdf)
 
+My [INSPIRE HEP](https://inspirehep.net) ID is [1070050](https://inspirehep.net/authors/1070050)
+
 My [ORCID](https://orcid.org) is [0000-0001-5169-1698](https://orcid.org/0000-0001-5169-1698).
 
 Here's my PhD thesis [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3763862.svg)](https://doi.org/10.5281/zenodo.3763862)
@@ -33,15 +35,15 @@ And my defense talk [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4732678.
 
 
 
-### Talks
-
-[Conference talks, seminars, colloquia](talks.html)
-
-
-
 ### Selected Publications
 
 [Selected Publications](selected.html)
+
+
+
+### Talks
+
+[Conference talks, seminars, colloquia](talks.html)
 
 
 
