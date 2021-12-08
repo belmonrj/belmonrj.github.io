@@ -15,7 +15,8 @@ mostly intended to be professional, but you'll find some personal stuff too.
 
 ### Biographical Sketch:
 
-- Research Scientist, University of North Carolina at Greensboro, 2018-Present
+- Assistant Professor, University of North Carolina at Greensboro, 2021-Present
+- Research Scientist, University of North Carolina at Greensboro, 2018-2021
 - Research Associate, University of Colorado Boulder, 2015-2018
 - Research Associate, Wayne State University, 2013-2015
 - Visiting Scholar, University of Michigan, 2012-2015
