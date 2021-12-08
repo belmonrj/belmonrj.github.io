@@ -10,15 +10,18 @@ layout: default
 
 ##### Lecture courses
 
-- General Physics 2 (with calculus), Fall 2021
+- Special Topics (General Relativity), Spring 2022
+- Thermal Physics, Spring 2022
+- General Physics 2 (With Calculus), Fall 2021
 - Thermal Physics, Spring 2021
-- General Physics 2 (with calculus), Fall 2020
-- General Physics 2 (with calculus), Fall 2019
+- General Physics 2 (With Calculus), Fall 2020
+- General Physics 2 (With Calculus), Fall 2019
 
 
 ##### Lab courses
 
-- General Physics 1 (with calculus) Lab, Spring 2021
+- General Physics 1 (With Calculus) Lab, Spring 2022
+- General Physics 1 (With Calculus) Lab, Spring 2021
 - General Physics 1 Lab, so many times
 - General Physics 2 Lab, so many times
 - Modern Physics Lab
