@@ -9,7 +9,7 @@ layout: default
 
 - [Death Metal](deathmetal.html)
 - Beer
-- [Dogs](dogs.html)
+- Dogs
 - Bunnies
 - [Airplanes](planes.html)
 - [Languages and linguistics](langling.html)
