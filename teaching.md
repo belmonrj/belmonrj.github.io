@@ -10,18 +10,14 @@ layout: default
 
 ##### Lecture courses
 
+- Thermal Physics, Fall 2023 (and many other times)
+- General Physics 2 (With Calculus), Fall 2023 (and many other times)
+- Classical Mechanics, Summer 2023
 - Special Topics (General Relativity), Spring 2022
-- Thermal Physics, Spring 2022
-- General Physics 2 (With Calculus), Fall 2021
-- Thermal Physics, Spring 2021
-- General Physics 2 (With Calculus), Fall 2020
-- General Physics 2 (With Calculus), Fall 2019
-
 
 ##### Lab courses
 
 - General Physics 1 (With Calculus) Lab, Spring 2022
-- General Physics 1 (With Calculus) Lab, Spring 2021
 - General Physics 1 Lab, so many times
 - General Physics 2 Lab, so many times
 - Modern Physics Lab
