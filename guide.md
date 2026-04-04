@@ -1,4 +1,11 @@
-An Educator's Guide to "AI"
+---
+title: An Educator's Guide to "AI"
+layout: default
+---
+
+
+
+### An Educator's Guide to "AI"
 
 Artificial Intelligence, if one takes the formal computer science definition, is a broad and legitimate area of academic inquiry.
 

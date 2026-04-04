@@ -10,21 +10,17 @@ layout: default
 
 ##### Lecture courses
 
-- Thermal Physics, Fall 2023 (and many other times)
-- General Physics 2 (With Calculus), Fall 2023 (and many other times)
-- Classical Mechanics, Summer 2023
-- Special Topics (General Relativity), Spring 2022
+- Thermal Physics, Fall 2025 (and many other times)
+- General Physics 2 (With Calculus), Fall 2026 (and many other times)
+- Classical Mechanics, Spring 2026
+- Special Topics (General Relativity), Fall 2025
 
 ##### Lab courses
 
-- General Physics 1 (With Calculus) Lab, Spring 2022
 - General Physics 1 Lab, so many times
 - General Physics 2 Lab, so many times
-- Modern Physics Lab
-- E&M Lab
 
 
-More information coming soon...
 
 
 ### General philosophies
@@ -45,6 +41,6 @@ I teach at a university, so my students are adults---that's one of my guiding pr
 
 ### Additional information, resources, etc
 
-Coming soon...
+(I am transitioning from AI-skeptic to AI-hater)[guide.html].
 
 
