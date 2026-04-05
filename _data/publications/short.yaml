@@ -41,27 +41,27 @@
   short: sphenix-rbrc
 
 - title: 'Nonprompt direct-photon production in Au+Au collisions at 200 GeV'
-  arxiv:
-  doi:
-  inspire:
-  short: ppg
+  arxiv: 2203.17187
+  doi: 10.1103/PhysRevC.109.044912
+  inspire: 2061074
+  short: ppg243
 
 - title: 'Measurements of second-harmonic Fourier coeffcients from azimuthal anisotropies in p+p, p+Au, d+Au, and 3He+Au 200 GeV'
-  arxiv:
-  doi:
-  inspire:
-  short: ppg
+  arxiv: 2203.09894
+  doi: 10.1103/PhysRevC.107.024907
+  inspire: 2054927
+  short: ppg236
 
 - title: 'Measurement of phi-meson production in Cu+Au collisions at 200 GeV and U+U collisions at 193 GeV'
-  arxiv:
-  doi:
-  inspire:
-  short: ppg
+  arxiv: 2207.10745
+  doi: 10.1103/PhysRevC.107.014907
+  inspire: 2623245
+  short: ppg242
 
 - title: 'Demographic study of major conferences in heavy ion physics'
   arxiv:
-  doi:
-  inspire:
+  doi: 10.31349/SuplRevMexFis.3.040922
+  inspire: 2613137
   short: demog
 
 - title: 'Checking Non-Flow Assumptions and Results via PHENIX Published Correlations in p+p, p+Au, d+Au, 3He+Au at 200 GeV'
