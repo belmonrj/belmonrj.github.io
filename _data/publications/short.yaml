@@ -1,26 +1,26 @@
 - title: 'Azimuthal anisotropy of direct photons in Au+Au collisions at 200 GeV'
-  arxiv:
+  arxiv: 2504.02955
   doi:
-  inspire:
-  short: ppg
+  inspire: 2907944
+  short: ppg254
 
 - title: 'Reconstructing jet anisotropies with cumulants'
-  arxiv:
-  doi:
-  inspire:
-  short: ppg
+  arxiv: 2503.05831
+  doi: 10.1103/PhysRevC.112.064919
+  inspire: 2898458
+  short: tanner-cumulants
 
-- title: 'Measurement of the transverse energy density in Au+Au collisions at 200GeV with the sPHENIX detector'
+- title: 'Measurement of the transverse energy density in Au+Au collisions at 200 GeV with the sPHENIX detector'
   arxiv:
   doi:
   inspire:
   short: ppg
 
 - title: 'Measurement of elliptic flow of J/psi in 200 GeV Au+Au collisions at forward rapidity'
-  arxiv:
-  doi:
-  inspire:
-  short: ppg
+  arxiv: 2409.12756
+  doi: 10.1103/PhysRevC.112.014904
+  inspire: 2830407
+  short: ppg255
 
 - title: 'Measurement of charged hadron multiplicity in Au+Au collisions at 200 GeV with the sPHENIX detector'
   arxiv:
@@ -28,17 +28,17 @@
   inspire:
   short: ppg
 
-- title: 'Identifed charged hadron production in p+Al, 3He+Au, and Cu+Au collisions at 200 GeV and in U+U collisions at 193 GeV'
-  arxiv:
-  doi:
-  inspire:
-  short: ppg
+- title: 'Identified charged hadron production in p+Al, 3He+Au, and Cu+Au collisions at 200 GeV and in U+U collisions at 193 GeV'
+  arxiv: 2312.09827
+  doi: 10.1103/PhysRevC.109.054910
+  inspire: 2737599
+  short: ppg249
 
 - title: 'Predictions for the sPHENIX physics program'
-  arxiv:
-  doi:
-  inspire:
-  short: ppg
+  arxiv: 2305.15491
+  doi: 10.1016/j.nuclphysa.2024.122821
+  inspire: 2662562
+  short: sphenix-rbrc
 
 - title: 'Nonprompt direct-photon production in Au+Au collisions at 200 GeV'
   arxiv:
