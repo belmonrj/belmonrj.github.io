@@ -11,10 +11,10 @@
   short: tanner-cumulants
 
 - title: 'Measurement of the transverse energy density in Au+Au collisions at 200 GeV with the sPHENIX detector'
-  arxiv:
-  doi:
-  inspire:
-  short: ppg
+  arxiv: 2504.02242
+  doi: 10.1103/PhysRevC.112.024908
+  inspire: 2907573
+  short: ppg03
 
 - title: 'Measurement of elliptic flow of J/psi in 200 GeV Au+Au collisions at forward rapidity'
   arxiv: 2409.12756
@@ -23,10 +23,10 @@
   short: ppg255
 
 - title: 'Measurement of charged hadron multiplicity in Au+Au collisions at 200 GeV with the sPHENIX detector'
-  arxiv:
-  doi:
-  inspire:
-  short: ppg
+  arxiv: 2504.02240
+  doi: 10.1007/JHEP08(2025)075
+  inspire: 2907537
+  short: ppg01
 
 - title: 'Identified charged hadron production in p+Al, 3He+Au, and Cu+Au collisions at 200 GeV and in U+U collisions at 193 GeV'
   arxiv: 2312.09827
