@@ -1,178 +1,208 @@
 - title: 'Azimuthal anisotropy of direct photons in Au+Au collisions at 200 GeV'
+  published: 'Submitted to Physical Review C'
   arxiv: 2504.02955
   doi:
   inspire: 2907944
   short: ppg254
 
 - title: 'Reconstructing jet anisotropies with cumulants'
+  published: 'Physical Review C, 112, 064919 (2025)'
   arxiv: 2503.05831
   doi: 10.1103/PhysRevC.112.064919
   inspire: 2898458
   short: tanner-cumulants
 
 - title: 'Measurement of the transverse energy density in Au+Au collisions at 200 GeV with the sPHENIX detector'
+  published: 'Physical Review C, 112, 024908 (2025)'
   arxiv: 2504.02242
   doi: 10.1103/PhysRevC.112.024908
   inspire: 2907573
   short: ppg03
 
 - title: 'Measurement of elliptic flow of J/psi in 200 GeV Au+Au collisions at forward rapidity'
+  published: 'Physical Review C, 112, 014904 (2025)'
   arxiv: 2409.12756
   doi: 10.1103/PhysRevC.112.014904
   inspire: 2830407
   short: ppg255
 
 - title: 'Measurement of charged hadron multiplicity in Au+Au collisions at 200 GeV with the sPHENIX detector'
+  published: 'Journal of High Energy Physics, 08, 075 (2025)'
   arxiv: 2504.02240
   doi: 10.1007/JHEP08(2025)075
   inspire: 2907537
   short: ppg01
 
 - title: 'Identified charged hadron production in p+Al, 3He+Au, and Cu+Au collisions at 200 GeV and in U+U collisions at 193 GeV'
+  published: 'Physical Review C, 109, 054910 (2024)'
   arxiv: 2312.09827
   doi: 10.1103/PhysRevC.109.054910
   inspire: 2737599
   short: ppg249
 
 - title: 'Predictions for the sPHENIX physics program'
+  published: 'Journal of Nuclear Physics A, 122821 (2024)'
   arxiv: 2305.15491
   doi: 10.1016/j.nuclphysa.2024.122821
   inspire: 2662562
   short: sphenix-rbrc
 
 - title: 'Nonprompt direct-photon production in Au+Au collisions at 200 GeV'
+  published: 'Physical Review C '
   arxiv: 2203.17187
   doi: 10.1103/PhysRevC.109.044912
   inspire: 2061074
   short: ppg243
 
 - title: 'Measurements of second-harmonic Fourier coeffcients from azimuthal anisotropies in p+p, p+Au, d+Au, and 3He+Au 200 GeV'
+  published: 'Physical Review C, 107, 024907 (2023)'
   arxiv: 2203.09894
   doi: 10.1103/PhysRevC.107.024907
   inspire: 2054927
   short: ppg236
 
 - title: 'Measurement of phi-meson production in Cu+Au collisions at 200 GeV and U+U collisions at 193 GeV'
+  published: 'Physical Review C, 107, 014907 (2023)'
   arxiv: 2207.10745
   doi: 10.1103/PhysRevC.107.014907
   inspire: 2623245
   short: ppg242
 
 - title: 'Demographic study of major conferences in heavy ion physics'
+  published: 'Suplemento de la Revista Mexicana de Fisica, 03, 04 (2022)'
   arxiv:
   doi: 10.31349/SuplRevMexFis.3.040922
   inspire: 2613137
   short: demog
 
-- title: 'Checking Non-Flow Assumptions and Results via PHENIX Published Correlations in p+p, p+Au, d+Au, 3He+Au at 200 GeV'
+- title: 'Checking Non-Flow Assumptions and Results via PHENIX Published Correlations in p+p, p+Au, d+Au, 3He+Au at 200 GeV''Physical Review C '
+  published: 'Physical Review C, 105, 024906 (2022)'
   arxiv: 2107.07287
   doi: 10.1103/PhysRevC.105.024906
   inspire: 1885422
   short: nonflow3x2PC
 
 - title: 'Kinematic dependence of azimuthal anisotropies in p+Au, d+Au, 3He+Au at 200 GeV'
+  published: 'Physical Review C, 105, 024901 (2022)'
   arxiv: 2107.06634
   doi: 10.1103/PhysRevC.105.024901
   inspire: 1883774
   short: ppg241
 
 - title: 'Design and Beam Test Results for the 2-D Projective sPHENIX Electromagnetic Calorimeter Prototype'
+  published: 'IEEE Transactions in Nuclear Science, 3034643 (2020)'
   arxiv: 2003.13685
   doi: 10.1109/TNS.2020.3034643
   inspire: 1789108
   short: t1044-2017emcal
 
 - title: 'Examination of flow and nonflow factorization methods in small collision systems'
+  published: 'Physical Review C '
   arxiv: '1902.11290'
   doi: 10.1103/PhysRevC.100.024908
   inspire: 1722500
   short: nonflow
 
 - title: 'Pseudorapidity dependence of particle production and elliptic flow in asymmetric nuclear collisions of p+Al, p+Au, d+Au, and 3He+Au at sqrt(s_NN) = 200 GeV'
+  published: 'Physical Review Letter, 121, 222301 (2019)'
   arxiv: 1807.11928
   doi: 10.1103/PhysRevLett.121.222301
   inspire: 1684475
   short: ppg221
 
 - title: 'Creating small circular, elliptical, and triangular droplets of quark-gluon plasma'
+  published: 'Nature Physics 18, 0360 (2019)'
   arxiv: 1805.02973
   doi: 10.1038/s41567-018-0360-0
   inspire: 1672133
   short: ppg216
 
 - title: 'Multi-particle azimuthal correlations for extracting event-by-event elliptic and triangular flow in Au+Au collisions at sqrt(s_NN) = 200 GeV'
+  published: 'Physical Review C '
   arxiv: 1804.10024
   doi: 10.1103/PhysRevC.99.024903
   inspire: 1670164
   short: ppg218
 
 - title: 'Measurements of mass-dependent azimuthal anisotropy in central p+Au, d+Au, and 3He+Au collisions at sqrt(s_NN) = 200 GeV'
+  published: 'Physical Review C, 97, 064904 (2018)'
   arxiv: 1710.09736
   doi: 10.1103/PhysRevC.97.064904
   inspire: 1632759
   short: ppg207
 
 - title: 'Measurements of azimuthal anisotropy and charged-particle multiplicity in d+Au collisions at sqrt(s_NN) = 200, 62.4, 39, and 19.6 GeV'
+  published: 'Physical Review C, 96, 064905 (2017)'
   arxiv: 1708.06983
   doi: 10.1103/PhysRevC.96.064905
   inspire: 1618141
   short: ppg205
 
 - title: 'Measurements of multiparticle correlations in d+Au collisions at 200, 62.4, 39, and 19.6 GeV and p+Au collisions at 200 GeV and implications for collective behavior'
+  published: 'Physical Review Letters, 120, 062303 (2017)'
   arxiv: 1707.06108
   doi: 10.1103/PhysRevLett.120.062302
   inspire: 1610655
   short: ppg206
 
 - title: 'Minimal conditions for collectivity in e+e- and p+p collisions'
+  published: 'Physical Review C, 97, 024909 (2018)'
   arxiv: 1707.02307
   doi: 10.1103/PhysRevC.97.024909
   inspire: 1609293
   short: ee-ampt
 
 - title: 'Design and Beam Test Results for the sPHENIX Electromagnetic and Hadronic Calorimeter Prototypes'
+  published: 'IEEE Transactions in Nuclear Science, 2879047 (2018)'
   arxiv: 1704.01461
   doi: 10.1109/TNS.2018.2879047
   inspire: 1589842
   short: t1044-2016
 
 - title: 'To CME or not to CME? Implications of p+Pb measurements of the Chiral Magnetic Effect in heavy ion collisions'
+  published: 'Physical Review C, 96, 024901 (2017)'
   arxiv: 1610.07964
   doi: 10.1103/PhysRevC.96.024901
   inspire: 1494450
   short: cme-jamie
 
 - title: 'Exploring the Beam Energy Dependence of Flow-Like Signatures in Small System d+Au Collisions'
+  published: 'Physical Review C, 93, 044910 (2016)'
   arxiv: 1512.06949
   doi: 10.1103/PhysRevC.93.044910
   inspire: 1411139
   short: daubes-javier
 
 - title: 'Charge-dependent anisotropic flow studies and the search for the Chiral Magnetic Wave in Pb+Pb collisions at sqrt(s_NN) = 2.76 TeV'
+  published: 'Physical Review C, 93, 044903 (2016)'
   arxiv: 1512.05739
   doi: 10.1103/PhysRevC.93.044903
   inspire: 1410144
   short: cmw-alice
 
 - title: 'Charge-dependent anisotropic flow studies and the search for the Chiral Magnetic Wave in ALICE'
+  published: 'Journal of Nuclear Physics A, 09, 070 (2014) '
   arxiv: 1408.1043
   doi: 10.1016/j.nuclphysa.2014.09.070
   inspire: 1309917
   short: cmw-alice-proceedings
 
 - title: 'Measuring and interpreting charge dependent anisotropic flow'
+  published: 'Journal of Nuclear Physics A, 09, 030 (2014)'
   arxiv: 1408.0714
   doi: 10.1016/j.nuclphysa.2014.09.030
   inspire: 1309652
   short: cmw-sergei
 
 - title: 'Spectra and ratios of identified particles in Au+Au and d+Au collisions at sqrt(s_NN)=200 GeV'
+  published: 'Physical Review C 88, 024906 (2013)'
   arxiv: 1304.3410
   doi: 10.1103/PhysRevC.88.024906
   inspire: 1227971
   short: ppg146
 
 - title: 'Deviation from quark-number scaling of the anisotropy parameter v_2 of pions, kaons, and protons in Au+Au collisions at sqrt(s_NN) = 200 GeV'
+  published: 'Physical Review C 85, 064914 (2012)'
   arxiv: 1203.2644
   doi: 10.1103/PhysRevC.85.064914
   inspire: 1093596
