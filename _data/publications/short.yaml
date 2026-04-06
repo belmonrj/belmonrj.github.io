@@ -90,35 +90,35 @@
   short: ppg241
 
 - title: 'Design and Beam Test Results for the 2-D Projective sPHENIX Electromagnetic Calorimeter Prototype'
-  published: 'IEEE Transactions in Nuclear Science, 3034643 (2020)'
+  published: 'IEEE Transactions on Nuclear Science, 68, 173 (2020)'
   arxiv: 2003.13685
   doi: 10.1109/TNS.2020.3034643
   inspire: 1789108
   short: t1044-2017emcal
 
 - title: 'Examination of flow and nonflow factorization methods in small collision systems'
-  published: 'Physical Review C '
+  published: 'Physical Review C 100, 024908 (2019)'
   arxiv: '1902.11290'
   doi: 10.1103/PhysRevC.100.024908
   inspire: 1722500
   short: nonflow
 
 - title: 'Pseudorapidity dependence of particle production and elliptic flow in asymmetric nuclear collisions of p+Al, p+Au, d+Au, and 3He+Au at sqrt(s_NN) = 200 GeV'
-  published: 'Physical Review Letter, 121, 222301 (2019)'
+  published: 'Physical Review Letter, 121, 222301 (2018)'
   arxiv: 1807.11928
   doi: 10.1103/PhysRevLett.121.222301
   inspire: 1684475
   short: ppg221
 
 - title: 'Creating small circular, elliptical, and triangular droplets of quark-gluon plasma'
-  published: 'Nature Physics 18, 0360 (2019)'
+  published: 'Nature Physics 15, 214 (2019)'
   arxiv: 1805.02973
   doi: 10.1038/s41567-018-0360-0
   inspire: 1672133
   short: ppg216
 
 - title: 'Multi-particle azimuthal correlations for extracting event-by-event elliptic and triangular flow in Au+Au collisions at sqrt(s_NN) = 200 GeV'
-  published: 'Physical Review C '
+  published: 'Physical Review C, 99, 024903 (2019)'
   arxiv: 1804.10024
   doi: 10.1103/PhysRevC.99.024903
   inspire: 1670164
@@ -139,7 +139,7 @@
   short: ppg205
 
 - title: 'Measurements of multiparticle correlations in d+Au collisions at 200, 62.4, 39, and 19.6 GeV and p+Au collisions at 200 GeV and implications for collective behavior'
-  published: 'Physical Review Letters, 120, 062303 (2017)'
+  published: 'Physical Review Letters, 120, 062303 (2018)'
   arxiv: 1707.06108
   doi: 10.1103/PhysRevLett.120.062302
   inspire: 1610655
@@ -153,7 +153,7 @@
   short: ee-ampt
 
 - title: 'Design and Beam Test Results for the sPHENIX Electromagnetic and Hadronic Calorimeter Prototypes'
-  published: 'IEEE Transactions in Nuclear Science, 2879047 (2018)'
+  published: 'IEEE Transactions on Nuclear Science, 65, 2901 (2018)'
   arxiv: 1704.01461
   doi: 10.1109/TNS.2018.2879047
   inspire: 1589842
@@ -181,14 +181,14 @@
   short: cmw-alice
 
 - title: 'Charge-dependent anisotropic flow studies and the search for the Chiral Magnetic Wave in ALICE'
-  published: 'Journal of Nuclear Physics A, 09, 070 (2014) '
+  published: 'Journal of Nuclear Physics A, 931, 981 (2014) '
   arxiv: 1408.1043
   doi: 10.1016/j.nuclphysa.2014.09.070
   inspire: 1309917
   short: cmw-alice-proceedings
 
 - title: 'Measuring and interpreting charge dependent anisotropic flow'
-  published: 'Journal of Nuclear Physics A, 09, 030 (2014)'
+  published: 'Journal of Nuclear Physics A, 931, 992 (2014)'
   arxiv: 1408.0714
   doi: 10.1016/j.nuclphysa.2014.09.030
   inspire: 1309652
