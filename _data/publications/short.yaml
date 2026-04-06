@@ -1,28 +1,28 @@
 - title: 'Azimuthal anisotropy of direct photons in Au+Au collisions at 200 GeV'
   published: 'Submitted to Physical Review C'
   arxiv: 2504.02955
-  doi:
+  doi: 10.48550/arXiv.2504.02955
   inspire: 2907944
   short: ppg254
 
 - title: 'Reconstructing jet anisotropies with cumulants'
   published: 'Physical Review C, 112, 064919 (2025)'
   arxiv: 2503.05831
-  doi: 10.1103/PhysRevC.112.064919
+  doi: 10.1103/k68z-z2xr
   inspire: 2898458
   short: tanner-cumulants
 
 - title: 'Measurement of the transverse energy density in Au+Au collisions at 200 GeV with the sPHENIX detector'
   published: 'Physical Review C, 112, 024908 (2025)'
   arxiv: 2504.02242
-  doi: 10.1103/PhysRevC.112.024908
+  doi: 10.1103/h8d5-swg6
   inspire: 2907573
   short: ppg03
 
 - title: 'Measurement of elliptic flow of J/psi in 200 GeV Au+Au collisions at forward rapidity'
   published: 'Physical Review C, 112, 014904 (2025)'
   arxiv: 2409.12756
-  doi: 10.1103/PhysRevC.112.014904
+  doi: 10.1103/6pmd-6dwr
   inspire: 2830407
   short: ppg255
 
@@ -41,14 +41,14 @@
   short: ppg249
 
 - title: 'Predictions for the sPHENIX physics program'
-  published: 'Journal of Nuclear Physics A, 122821 (2024)'
+  published: 'Journal of Nuclear Physics A, 1043, 122821 (2024)'
   arxiv: 2305.15491
   doi: 10.1016/j.nuclphysa.2024.122821
   inspire: 2662562
   short: sphenix-rbrc
 
 - title: 'Nonprompt direct-photon production in Au+Au collisions at 200 GeV'
-  published: 'Physical Review C '
+  published: 'Physical Review C, 109, 044912 (2024)'
   arxiv: 2203.17187
   doi: 10.1103/PhysRevC.109.044912
   inspire: 2061074
@@ -69,13 +69,13 @@
   short: ppg242
 
 - title: 'Demographic study of major conferences in heavy ion physics'
-  published: 'Suplemento de la Revista Mexicana de Fisica, 03, 04 (2022)'
+  published: 'Suplemento de la Revista Mexicana de Fisica, 03, 040922 (2022)'
   arxiv:
   doi: 10.31349/SuplRevMexFis.3.040922
   inspire: 2613137
   short: demog
 
-- title: 'Checking Non-Flow Assumptions and Results via PHENIX Published Correlations in p+p, p+Au, d+Au, 3He+Au at 200 GeV''Physical Review C '
+- title: 'Checking Non-Flow Assumptions and Results via PHENIX Published Correlations in p+p, p+Au, d+Au, 3He+Au at 200 GeV'
   published: 'Physical Review C, 105, 024906 (2022)'
   arxiv: 2107.07287
   doi: 10.1103/PhysRevC.105.024906
