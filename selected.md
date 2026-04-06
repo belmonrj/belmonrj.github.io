@@ -13,7 +13,7 @@ layout: default
    {%- assign print_title = var.title -%}
    {%- assign print_published = var.published -%}
    {%- assign short_doi = var.doi -%}
-   {%- assign print_doi = '[DOI:' | append: short_doi | append: '](https://doi.org/' | append: short_doi | append: ')' -%}
+   {%- assign print_doi = '[doi:' | append: short_doi | append: '](https://doi.org/' | append: short_doi | append: ')' -%}
    {%- assign short_arxiv = var.arxiv -%}
    {%- assign print_arxiv = '[arXiv:' | append: short_arxiv | append: '](https://arxiv.org/abs/' | append: short_arxiv | append: ')' -%}
    {%- assign short_inspire = var.inspire -%}
