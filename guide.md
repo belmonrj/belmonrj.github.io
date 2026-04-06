@@ -6,6 +6,7 @@ layout: default
 
 
 ### An Educator's Guide to "AI"
+#### 4 April 2026
 
 Artificial Intelligence, if one takes the formal computer science definition, is a broad and legitimate area of academic inquiry.
 
