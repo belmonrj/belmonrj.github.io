@@ -6,7 +6,7 @@ layout: default
 
 
 ### An Educator's Guide to "AI"
-#### 4 April 2026
+#### Posted: 4 April 2026
 
 Artificial Intelligence, if one takes the formal computer science definition, is a broad and legitimate area of academic inquiry.
 
@@ -22,7 +22,7 @@ The corporatization of academia has led to many ills, the rushed and uncritical 
 
 As tech reporter Ed Zitron observes, "the point of homework isn't to *produce* homework, there isn't some gremlin we feed the homework to; the point is to *learn*".  Educators know this.  Administrators seem not to.  It is incumbent on us to resist the whims of administrators, who are highly susceptible to fads.  Nevertheless, a cautious and circumspect educator could reasonably ask themselves, while there are risks, are there legitimate use cases for "AI" in the classroom?  I guess that depends on your perspective.
 
-You should not use an LLM to generate your own lecture material.  In addition to making you dumber (and since you're an educator you clearly do not want to be dumber), it is sufficiently error-prone that the amount of time you spend fact-checking and correcting the output will likely cancel out the time you save by not writing your own material.  Studies have already demonstrated minimal changes in productivity at [companies](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity), and net-negative efficiency for [coders](https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/) and [software engineers](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/).
+You should not use an LLM to generate your own lecture material.  In addition to making you dumber (and since you're an educator you clearly do not want to be dumber), it is sufficiently error-prone that the amount of time you spend fact-checking and correcting the output will likely cancel out the time you save by not writing your own material.  Studies have already demonstrated minimal changes in [productivity](https://www.nber.org/papers/w34836) at [companies](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity), and net-negative efficiency for [coders](https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/) and [software engineers](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/).
 
 You should not allow students to use "AI" to help them with with their assignments, for the obvious reason that, as stated above, it leads to cognitive decline and lost opportunities to develop skills.  Furthermore, in addition to the harm it causes students, there is no benefit.  Using a chatbot is not a skill any more than reading a website or scrolling through social media is a skill.  Do not be bullied into pretending it is.
 
