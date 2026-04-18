@@ -38,6 +38,7 @@ So, the next time you think about using "AI" to help you with your homework (or 
 - How many people's work am I willing to steal to answer this question?
 - How many acres of rainforest am I willing to burn down to answer this question?
 - How many school children am I willing to murder to answer this question?
+
 I don't think it's worth it, and I don't think you do either.
 
 
