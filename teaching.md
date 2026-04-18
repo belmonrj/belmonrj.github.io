@@ -41,6 +41,5 @@ I teach at a university, so my students are adults---that's one of my guiding pr
 
 ### Additional information, resources, etc
 
-[I am transitioning from AI-skeptic to AI-hater](guide.html).
-
+I am transitioning from AI-skeptic to AI-hater.  Here's a guide for [educators](guide.html) and here's a guide for [students](guide_students.html).
 
