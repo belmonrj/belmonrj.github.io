@@ -8,8 +8,8 @@ layout: default
 ### Introduction
 
 Greetings and welcome to my website!  My name is Ron and I'm a high energy nuclear physicist.
-You'll find information about me below.  This website is
-mostly intended to be professional, but you'll find some personal stuff too.
+You'll find information about me below.  This is my personal website and any views expressed
+herein do not necessarily reflect those of my employer or affiliated institutions.
 
 
 
